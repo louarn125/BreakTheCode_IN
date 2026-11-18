@@ -1,4 +1,3 @@
-
 typedef struct code{
     char* code;
     int n;

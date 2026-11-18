@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
+#include "fichier.h"
 
 #define TAILLE_TEXT 256
 
@@ -39,4 +40,11 @@ char* charger_texte(const char* nom_fichier){
     }
     fclose(fichier);
     return text;
+}
+
+code * trouver_code(char * text) {
+    int cpt=0;
+    while(text[cpt]!=NULL){
+        if()
+    }
 }
