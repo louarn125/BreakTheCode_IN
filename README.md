@@ -1,2 +1,2 @@
 # BreakTheCode_IN
-Repositery of the team Intelligence naturelle
+Repository of the team Intelligence naturelle
