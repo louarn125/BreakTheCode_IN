@@ -6,5 +6,7 @@
 
 int main() {
 
+    char * res = charger_texte("rahaha_le_code_est_la.txt");
 
+    
 }

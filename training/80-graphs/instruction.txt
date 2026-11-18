@@ -1,0 +1,19 @@
+Les rebelles multiplient les cibles, ils attaquent maintenant Crystar. Votre nouvelle consigne est d'aller apporter de l'armement sur Crystar. Mais vous avez un problème, vous avez pu rejoindre Xevora mais la guerre y fait toujours rage. Et votre vaisseau a été endommagé. Votre moteur autonome à énergie supra-luminique est hors service. Sans lui, plus possible de traverser la galaxie aussi facilement. Il va falloir utiliser du carburant pour vous déplacer de planètes en planètes.
+
+Par chance, la carte stellaire de votre vaisseau vous indique le coût en carburant de chaque trajet.
+
+departure,arrival,cost Terre,Mars,5 → Il est possible de rejoindre Mars à partir de la Terre avec un coût en carburant de 5. Mercure,Vénus,8 → Il est possible de rejoindre Vénus à partir de Mercure avec un coût en carburant de 8.
+
+Pour pouvoir payer ces coûts en carburant, il va vous falloir trouver du carburant. Mais comme l'empire fait bien les choses, il y en a dans les stations des planètes.
+
+id,planet,value,weight,type 28,Uranus,5,50,FUEL → Le carburant d'identifiant 28 est disponible sur Uranus. Il a une valeur de 5 et un poids de 50. 35,Uranus,18,100,WEAPON → L'arme d'identifiant 35 est disponible sur Uranus. Elle a une valeur de 18 et un poids de 100. 37,Neptune,50,250,FUEL → Le carburant d'identifiant 37 est disponible sur Neptune. Il a une valeur de 50 et un poids de 250.
+
+Pour pouvoir faire le trajet d'une planète à une autre, vous devez utiliser un ou plusieurs carburants. Et il faut que la somme des valeurs des carburants que vous utilisez soit plus grande ou égale au coût du trajet entre les planètes. Quand vous utilisez un ou plusieurs carburants pour atteindre une planète, ils sont consommés, leurs poids n'est donc plus à prendre en compte dans la contrainte de poids de votre vaisseau. Vous pouvez considérer que dans la situation initiale, vous être en possession du carburant d'identifiant 1, de valeur infinie et de poids 0. Il vous permettra d'effectuer le premier trajet.
+
+Le format de votre réponse doit donc être modifié pour correspondre à celui de l'exemple suivant :
+
+next planet,fuel items to travel to next planet (separated by ;),items to pick on next planet(separated by ;) Vénus,1,3;5;7 → Vous allez jusqu'à Vénus (en partant de Xevora) en utilisant le carburant d'identifiant 1 et vous prenez les objets d'identifiant 3, 5 et 7 (qui peuvent être des carburants ou des armes) sur cette planète. Mercure,5,N/A → Ensuite, vous allez jusqu'à Mercure en utilisant le carburant d'identifiant 5. Mars,3;7,11;13 → Ensuite, vous allez jusqu'à Mars en utilisant les carburants d'identifiant 3 et 7 et vous prenez les objets d'identifiant 11 et 13. Crystar,13 → Enfin, vous allez jusqu'à Crystar en utilisant le carburant d'identifiant 13.
+
+Pour qu'une solution soit considérée comme valide, il faut que les carburants que vous utilisez pour voyager aient une valeur suffisante pour payer le coût des trajets. Il faut aussi qu'ils soient en votre possession.
+
+Le score d'une solution se calcule de la même façon qu'à l'exercice précédent, en additionnant les valeurs des armes à l'arrivée. Vous devez donc fournir une solution valide avec le meilleur score possible.
