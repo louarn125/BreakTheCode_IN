@@ -1,0 +1,1142 @@
+trail,travel_duration,starting_point,destination
+Forgotten Ridge,2m28s,Copper Canyon,Ragged Bandit
+Windswept Route,3m28s,Ragged Bandit,Thirsty Sheriff
+Winding Ridge,2m57s,Thirsty Sheriff,Wild Bandit
+Old Path,1m31s,Wild Bandit,Drunken Spur
+Shattered Ridge,3m43s,Drunken Spur,Thirsty Saloon
+Winding Gulch,2m31s,Thirsty Saloon,Grizzled Buzzard
+Dusty Trail,2m48s,Grizzled Buzzard,Crooked Buzzard
+Hidden Draw,2m17s,Crooked Buzzard,Sunburnt Sheriff
+Shattered Trace,3m53s,Sunburnt Sheriff,Broken Buzzard
+Hidden Fork,4m16s,Broken Buzzard,Whispering Gambler
+Old Crossing,3m42s,Whispering Gambler,Lazy Gambler
+Windswept Route 2,1m33s,Lazy Gambler,Whispering Gambler 2
+Twisting Wash,2m47s,Whispering Gambler 2,Drunken Outlaw
+Barren Pass,3m45s,Drunken Outlaw,Lucky Bandit
+Old Road,2m20s,Lucky Bandit,Sunburnt Spur
+Barren Path,2m36s,Sunburnt Spur,Dusty Tumbleweed
+Barren Canyon,2m56s,Dusty Tumbleweed,Sunburnt Canyon
+Muddy Bend,2m7s,Sunburnt Canyon,Drunken Wagon
+Winding Fork,2m16s,Drunken Wagon,Grizzled Buzzard 2
+Hidden Trail,2m48s,Grizzled Buzzard 2,Copper Canyon
+Forgotten Road,5m24s,Grizzled Buzzard,Lazy Gambler
+Hidden Byway,3m25s,Dusty Tumbleweed,Ragged Bandit
+Winding Fork 2,2m14s,Copper Canyon,Thirsty Sheriff
+Windswept Bend,3m47s,Whispering Gambler,Sunburnt Spur
+Dusty Canyon,5m31s,Sunburnt Sheriff,Whispering Gambler 2
+Barren Path 2,6m7s,Drunken Outlaw,Grizzled Buzzard 2
+Muddy Draw,6m51s,Whispering Gambler,Whispering Gambler 2
+Shattered Bend,4m43s,Dusty Tumbleweed,Copper Canyon
+Muddy Canyon,3m14s,Broken Buzzard,Dusty Tumbleweed
+Dusty Pass,6m1s,Whispering Gambler 2,Lucky Bandit
+Hidden Gulch,5m41s,Whispering Gambler,Ragged Bandit
+Shattered Canyon,4m28s,Lazy Gambler,Thirsty Sheriff
+Muddy Bend 2,4m59s,Thirsty Saloon,Whispering Gambler
+Winding Ridge 2,5m37s,Wild Bandit,Whispering Gambler 2
+Rocky Trace,1m21s,Sunburnt Sheriff,Crooked Buzzard
+Forgotten Canyon,3m7s,Lucky Bandit,Drunken Outlaw
+Dusty Fork,1m24s,Thirsty Saloon,Drunken Spur
+Winding Draw,4m43s,Sunburnt Spur,Lucky Sheriff
+Winding Trace,3m21s,Lucky Sheriff,Drunken Spur
+Silent Crossing,1m27s,Broken Buzzard,Lucky Coyote
+Old Ridge,3m40s,Lucky Coyote,Grizzled Buzzard 2
+Rocky Trail,5m21s,Grizzled Buzzard,Sunburnt Barrel
+Silent Path,1m30s,Sunburnt Barrel,Lazy Gambler
+Old Canyon,4m14s,Dusty Tumbleweed,Golden Outlaw
+Dusty Byway,4m5s,Golden Outlaw,Grizzled Buzzard
+Silent Road,2m17s,Drunken Outlaw,Silver Cactus
+Endless Fork,1m33s,Silver Cactus,Drunken Spur
+Old Fork,6m16s,Silver Cactus,Drunken Outlaw
+Rocky Fork,6m34s,Drunken Spur,Crooked Mustang
+Narrow Trace,2m11s,Crooked Mustang,Drunken Outlaw
+Windswept Fork,4m22s,Drunken Wagon,Lone Cactus
+Winding Crossing,9m17s,Grizzled Buzzard,Drunken Saloon
+Dusty Fork 2,9m38s,Golden Outlaw,Howling Coyote
+Muddy Crossing,5m8s,Drunken Wagon,Broken Barrel
+Twisting Gulch,6m46s,Lucky Coyote,Silver Rattlesnake
+Barren Canyon 2,8m32s,Silver Rattlesnake,Thirsty Sheriff
+Dusty Path,5m35s,Thirsty Sheriff,Crooked Saloon
+Dusty Pass 2,9m24s,Crooked Saloon,Howling Coyote
+Shattered Path,4m28s,Broken Buzzard,Silver Bandit
+Dusty Canyon 2,8m56s,Silver Bandit,Broken Buzzard
+Twisting Crossing,7m29s,Sunburnt Sheriff,Iron Cactus
+Steep Trail,4m9s,Thirsty Sheriff,Whispering Outlaw
+Hidden Ridge,7m34s,Whispering Outlaw,Lazy Gambler
+Shattered Path 2,6m20s,Crooked Mustang,Crooked Mustang 2
+Barren Road,9m7s,Sunburnt Spur,Crooked Saloon 2
+Windswept Wash,7m44s,Crooked Saloon 2,Ragged Bandit
+Winding Wash,8m15s,Sunburnt Spur,Broken Cactus
+Silent Wash,5m46s,Broken Cactus,Sunburnt Canyon
+Hidden Pass,5m25s,Dusty Tumbleweed,Whispering Tumbleweed
+Sunbaked Path,7m35s,Whispering Tumbleweed,Ragged Bandit
+Forgotten Byway,5m47s,Lucky Sheriff,Grizzled Cactus
+Narrow Bend,7m33s,Lone Cactus,Rusty Bandit
+Dusty Path 2,8m26s,Silver Bandit,Rattling Sheriff
+Steep Road,6m54s,Rusty Bandit,Lone Bandit
+Hidden Road,8m24s,Lone Bandit,Howling Coyote
+Barren Draw,4m41s,Drunken Outlaw,Rattling Outlaw
+Muddy Trail,9m31s,Drunken Spur,Thirsty Bandit
+Old Bend,4m20s,Howling Coyote,Lazy Gunslinger
+Steep Road 2,6m15s,Lazy Gunslinger,Lucky Barrel
+Steep Canyon,5m6s,Lucky Barrel,Sunburnt Sheriff
+Muddy Road,10m0s,Silver Cactus,Drunken Prairie
+Steep Trail 2,7m55s,Drunken Prairie,Sunburnt Sheriff
+Narrow Bend 2,4m36s,Sunburnt Spur,Rattling Coyote
+Windswept Ridge,8m37s,Thirsty Sheriff,Rattling Canyon
+Winding Wash 2,6m54s,Rattling Canyon,Drunken Prairie
+Hidden Ridge 2,8m35s,Whispering Outlaw,Golden Cactus
+Barren Canyon 3,7m9s,Grizzled Cactus,Ragged Gunslinger
+Rocky Trace 2,4m35s,Ragged Gunslinger,Drunken Prairie
+Shattered Ridge 2,7m54s,Lucky Bandit,Lone Cactus 2
+Rocky Wash,5m58s,Lone Cactus 2,Thirsty Saloon
+Windswept Trail,4m48s,Grizzled Cactus,Lone Canyon
+Narrow Byway,7m24s,Silver Cactus,Ragged Gambler
+Muddy Bend 3,7m55s,Ragged Gambler,Ragged Bandit
+Old Gulch,5m41s,Lone Canyon,Dusty Saloon
+Forgotten Bend,8m40s,Dusty Saloon,Lucky Sheriff
+Shattered Wash,8m12s,Whispering Outlaw,Lone Vulture
+Endless Path,4m37s,Lone Vulture,Grizzled Buzzard
+Winding Pass,5m13s,Sunburnt Sheriff,Lone Rattlesnake
+Winding Path,8m38s,Lone Rattlesnake,Sunburnt Sheriff
+Windswept Path,4m11s,Dusty Saloon,Lucky Canyon
+Barren Draw 2,7m13s,Silver Cactus,Crooked Tumbleweed
+Windswept Trail 2,5m36s,Crooked Saloon,Grizzled Outlaw
+Twisting Canyon,4m39s,Grizzled Cactus,Howling Rattlesnake
+Shattered Route,7m0s,Howling Rattlesnake,Rattling Coyote
+Old Road 2,4m50s,Howling Coyote,Golden Rattlesnake
+Muddy Trail 2,6m47s,Golden Rattlesnake,Silver Bandit
+Rocky Canyon,4m51s,Grizzled Outlaw,Wild Rattlesnake
+Hidden Ridge 3,9m4s,Wild Rattlesnake,Lucky Sheriff
+Endless Path 2,8m29s,Silver Bandit,Iron Vulture
+Sunbaked Pass,8m44s,Grizzled Outlaw,Crooked Prairie
+Sunbaked Byway,4m51s,Grizzled Buzzard 2,Copper Outlaw
+Sunbaked Route,8m16s,Copper Outlaw,Grizzled Outlaw
+Muddy Road 2,7m43s,Crooked Saloon,Rattling Sheriff 2
+Twisting Byway,8m0s,Silver Bandit,Rusty Cactus
+Winding Fork 3,8m31s,Whispering Outlaw,Wild Mustang
+Winding Trace 2,8m32s,Wild Mustang,Lucky Sheriff
+Shattered Bend 2,8m20s,Golden Cactus,Lone Rattlesnake 2
+Windswept Ridge 2,10m0s,Wild Mustang,Grizzled Spur
+Endless Draw,9m10s,Grizzled Spur,Crooked Saloon
+Old Byway,4m11s,Lucky Sheriff,Golden Vulture
+Windswept Route 3,9m34s,Golden Vulture,Dusty Saloon
+Dusty Route,4m27s,Lucky Barrel,Thirsty Vulture
+Silent Fork,5m51s,Thirsty Vulture,Iron Cactus
+Rocky Draw,5m59s,Lucky Canyon,Copper Cactus
+Winding Fork 4,7m23s,Copper Cactus,Lone Rattlesnake
+Hidden Fork 2,9m52s,Crooked Mustang,Sunburnt Barrel 2
+Twisting Path,6m50s,Lone Cactus,Broken Cactus 2
+Forgotten Trail,9m30s,Dusty Tumbleweed,Sunburnt Buzzard
+Sunbaked Wash,6m13s,Sunburnt Buzzard,Lucky Coyote
+Steep Road 3,7m53s,Golden Outlaw,Silver Sheriff
+Narrow Path,5m27s,Silver Sheriff,Whispering Outlaw
+Dusty Bend,6m53s,Rattling Outlaw,Golden Buzzard
+Sunbaked Gulch,4m8s,Rusty Cactus,Broken Barrel 2
+Narrow Bend 3,9m56s,Broken Barrel 2,Wild Mustang
+Twisting Fork,7m37s,Golden Vulture,Broken Canyon
+Silent Trace,9m37s,Rusty Cactus,Rusty Gunslinger
+Hidden Fork 3,8m20s,Rusty Gunslinger,Broken Barrel
+Winding Wash 3,6m35s,Crooked Tumbleweed,Thirsty Outlaw
+Shattered Path 3,6m25s,Copper Outlaw,Whispering Coyote
+Silent Trace 2,9m33s,Golden Vulture,Wild Saloon
+Shattered Crossing,6m13s,Whispering Outlaw,Whispering Gambler 3
+Sunbaked Gulch 2,7m8s,Whispering Gambler 3,Silver Rattlesnake
+Shattered Crossing 2,4m25s,Howling Rattlesnake,Grizzled Wagon
+Hidden Fork 4,7m6s,Grizzled Outlaw,Copper Bandit
+Endless Byway,8m58s,Copper Bandit,Rattling Sheriff 3
+Winding Draw 2,9m47s,Rattling Coyote,Drunken Gambler
+Twisting Fork 2,7m47s,Drunken Prairie,Silver Cactus 2
+Windswept Trail 3,9m44s,Thirsty Vulture,Rattling Spur
+Forgotten Byway 2,5m57s,Grizzled Spur,Drunken Spur 2
+Endless Byway 2,7m2s,Drunken Spur 2,Thirsty Vulture
+Forgotten Trace,7m48s,Rattling Canyon,Thirsty Prairie
+Narrow Ridge,6m30s,Crooked Mustang,Thirsty Wagon
+Rocky Road,4m20s,Thirsty Wagon,Golden Rattlesnake
+Hidden Pass 2,8m58s,Rattling Canyon,Dusty Canyon
+Steep Bend,5m36s,Dusty Canyon,Wild Rattlesnake
+Shattered Byway,5m2s,Ragged Gambler,Howling Vulture
+Sunbaked Route 2,7m31s,Crooked Prairie,Silver Rattlesnake 2
+Winding Ridge 3,4m50s,Silver Rattlesnake 2,Silver Cactus
+Old Bend 2,7m24s,Crooked Buzzard,Silver Saloon
+Silent Route,4m26s,Silver Saloon,Lucky Bandit
+Endless Bend,6m52s,Drunken Spur 2,Silver Vulture
+Sunbaked Draw,8m12s,Golden Buzzard,Howling Longhorn
+Dusty Trace,9m42s,Ragged Gunslinger,Ragged Buzzard
+Twisting Draw,8m40s,Ragged Buzzard,Crooked Saloon
+Barren Gulch,8m25s,Lone Rattlesnake 2,Lone Buzzard
+Endless Road,8m17s,Lone Cactus,Golden Canyon
+Barren Road 2,9m0s,Golden Canyon,Lucky Coyote
+Barren Fork,8m44s,Crooked Prairie,Lucky Tavern
+Windswept Fork 2,6m16s,Lucky Tavern,Drunken Saloon
+Barren Wash,7m9s,Whispering Gambler,Silver Prairie
+Forgotten Gulch,4m43s,Grizzled Wagon,Broken Gunslinger
+Sunbaked Path 2,8m33s,Broken Gunslinger,Crooked Mustang
+Narrow Route,5m55s,Sunburnt Barrel,Rusty Coyote
+Windswept Route 4,9m53s,Lone Rattlesnake,Lone Tavern
+Barren Fork 2,4m35s,Lucky Canyon,Whispering Tumbleweed 2
+Hidden Pass 3,9m1s,Whispering Tumbleweed 2,Grizzled Buzzard 2
+Old Gulch 2,4m53s,Rattling Canyon,Golden Mustang
+Muddy Draw 2,7m8s,Golden Mustang,Rusty Bandit
+Old Byway 2,5m29s,Dusty Canyon,Rusty Bandit 2
+Dusty Trail 2,7m53s,Rattling Outlaw,Lucky Gambler
+Steep Trace,7m44s,Lucky Gambler,Sunburnt Barrel
+Silent Route 2,4m15s,Lucky Tavern,Lone Saloon
+Twisting Canyon 2,7m35s,Lone Saloon,Silver Cactus
+Old Trace,7m25s,Lazy Gunslinger,Dusty Tumbleweed 2
+Narrow Crossing,5m6s,Rattling Spur,Silver Coyote
+Narrow Gulch,7m11s,Lone Bandit,Iron Tavern
+Muddy Byway,6m0s,Lone Cactus 2,Howling Bandit
+Windswept Byway,6m0s,Whispering Outlaw,Dusty Outlaw
+Hidden Road 2,5m18s,Lucky Canyon,Whispering Coyote 2
+Dusty Canyon 3,5m39s,Lucky Coyote,Copper Bandit 2
+Endless Route,4m39s,Grizzled Buzzard,Ragged Saloon
+Hidden Byway 2,7m6s,Howling Bandit,Wild Mustang 2
+Steep Byway,9m8s,Wild Mustang 2,Crooked Saloon 2
+Old Pass,9m21s,Lone Bandit,Golden Tumbleweed
+Narrow Crossing 2,7m11s,Golden Tumbleweed,Lazy Gambler
+Endless Path 3,5m47s,Drunken Wagon,Lone Mustang
+Silent Road 2,9m13s,Dusty Tumbleweed,Golden Outlaw 2
+Sunbaked Ridge,4m6s,Copper Cactus,Wild Barrel
+Narrow Crossing 3,8m52s,Wild Barrel,Rusty Cactus
+Old Wash,5m36s,Drunken Outlaw,Broken Spur
+Barren Road 3,6m39s,Rattling Spur,Golden Tumbleweed 2
+Barren Route,6m34s,Golden Tumbleweed 2,Thirsty Vulture
+Narrow Trace 2,5m57s,Rattling Sheriff,Wild Wagon
+Windswept Road,8m19s,Dusty Saloon,Dusty Canyon 2
+Hidden Road 3,5m18s,Dusty Canyon 2,Sunburnt Spur
+Silent Wash 2,9m56s,Lucky Tavern,Golden Vulture 2
+Dusty Route 2,4m32s,Drunken Gambler,Grizzled Rattlesnake
+Sunbaked Crossing,8m6s,Grizzled Rattlesnake,Lone Mustang
+Barren Gulch 2,8m58s,Grizzled Rattlesnake,Grizzled Prairie
+Narrow Canyon,7m22s,Lucky Coyote,Rattling Wagon
+Rocky Bend,7m58s,Broken Buzzard,Whispering Cactus
+Barren Crossing,6m58s,Ragged Buzzard,Lone Prairie
+Winding Crossing 2,6m45s,Lone Prairie,Lone Cactus
+Silent Fork 2,5m40s,Wild Wagon,Lazy Tavern
+Windswept Pass,6m52s,Crooked Prairie,Crooked Longhorn
+Shattered Trace 2,5m45s,Howling Coyote,Drunken Saloon 2
+Winding Gulch 2,7m45s,Drunken Saloon 2,Sunburnt Barrel
+Winding Bend,8m32s,Rusty Bandit,Broken Bandit
+Barren Crossing 2,4m25s,Howling Coyote,Lazy Saloon
+Muddy Road 3,8m12s,Lazy Saloon,Dusty Canyon
+Old Draw,9m43s,Wild Saloon,Lone Prairie 2
+Steep Trail 3,4m22s,Whispering Gambler,Broken Tumbleweed
+Twisting Fork 3,8m7s,Broken Tumbleweed,Thirsty Saloon
+Rocky Route,9m30s,Broken Gunslinger,Howling Gunslinger
+Sunbaked Gulch 3,9m11s,Howling Gunslinger,Thirsty Outlaw
+Muddy Pass,4m47s,Rattling Sheriff 3,Wild Buzzard
+Twisting Wash 2,9m10s,Wild Buzzard,Silver Sheriff
+Silent Route 3,7m55s,Whispering Outlaw,Rattling Gunslinger
+Silent Draw,8m59s,Rattling Gunslinger,Broken Buzzard
+Sunbaked Route 3,8m46s,Sunburnt Canyon,Broken Sheriff
+Winding Ridge 4,5m31s,Howling Gunslinger,Howling Tumbleweed
+Dusty Pass 3,9m15s,Howling Tumbleweed,Golden Vulture 2
+Hidden Wash,6m31s,Broken Sheriff,Howling Cactus
+Winding Draw 3,8m39s,Howling Cactus,Lone Rattlesnake 2
+Shattered Gulch,9m49s,Silver Prairie,Grizzled Barrel
+Windswept Ridge 3,5m2s,Lazy Gambler,Whispering Outlaw 2
+Dusty Gulch,9m58s,Grizzled Cactus,Howling Saloon
+Windswept Byway 2,9m53s,Rusty Bandit,Whispering Buzzard
+Hidden Path,7m25s,Crooked Prairie,Thirsty Barrel
+Barren Bend,4m44s,Silver Sheriff,Broken Outlaw
+Forgotten Trace 2,8m49s,Broken Outlaw,Whispering Buzzard
+Barren Road 4,7m33s,Iron Tavern,Iron Vulture 2
+Forgotten Bend 2,7m52s,Iron Vulture 2,Lucky Coyote
+Old Bend 3,5m11s,Rattling Wagon,Golden Buzzard 2
+Shattered Canyon 2,7m54s,Lone Saloon,Thirsty Longhorn
+Dusty Bend 2,5m4s,Thirsty Longhorn,Thirsty Barrel
+Endless Crossing,7m29s,Drunken Spur,Grizzled Tavern
+Windswept Gulch,8m28s,Grizzled Tavern,Lone Prairie 2
+Silent Gulch,5m6s,Copper Cactus,Grizzled Gunslinger
+Sunbaked Bend,7m32s,Grizzled Gunslinger,Howling Cactus
+Steep Route,8m27s,Lone Vulture,Thirsty Mustang
+Silent Ridge,7m32s,Thirsty Mustang,Sunburnt Barrel
+Winding Gulch 3,6m8s,Lone Rattlesnake 2,Crooked Gunslinger
+Silent Wash 3,9m30s,Sunburnt Spur,Howling Saloon 2
+Forgotten Fork,4m32s,Howling Saloon 2,Rusty Bandit
+Rocky Pass,4m36s,Lone Vulture,Thirsty Buzzard
+Rocky Crossing,6m18s,Golden Mustang,Silver Barrel
+Narrow Bend 4,5m28s,Rattling Wagon,Rusty Gambler
+Twisting Route,9m38s,Silver Saloon,Grizzled Buzzard 3
+Steep Bend 2,9m8s,Grizzled Buzzard 3,Rattling Spur
+Steep Trace 2,5m38s,Golden Tumbleweed 2,Lone Rattlesnake 3
+Rocky Bend 2,6m40s,Grizzled Rattlesnake,Crooked Canyon
+Muddy Pass 2,9m2s,Rattling Coyote,Ragged Prairie
+Silent Route 4,5m25s,Ragged Prairie,Sunburnt Sheriff
+Endless Fork 2,6m36s,Thirsty Sheriff,Crooked Barrel
+Hidden Bend,6m7s,Crooked Barrel,Grizzled Tavern
+Twisting Fork 4,5m53s,Howling Saloon 2,Whispering Prairie
+Winding Path 2,8m6s,Rattling Canyon,Silver Coyote 2
+Twisting Fork 5,6m0s,Silver Coyote 2,Drunken Spur
+Forgotten Route,6m28s,Grizzled Tavern,Golden Gunslinger
+Endless Bend 2,5m51s,Dusty Tumbleweed 2,Sunburnt Sheriff 2
+Steep Route 2,9m12s,Sunburnt Spur,Copper Tavern
+Rocky Fork 2,4m53s,Lazy Gunslinger,Sunburnt Buzzard 2
+Narrow Route 2,9m24s,Sunburnt Buzzard 2,Wild Buzzard
+Forgotten Wash,9m24s,Rattling Coyote,Whispering Wagon
+Hidden Road 4,8m43s,Whispering Wagon,Drunken Wagon
+Hidden Draw 2,5m43s,Whispering Coyote 2,Whispering Canyon
+Old Gulch 3,7m52s,Thirsty Outlaw,Iron Cactus 2
+Hidden Byway 3,4m34s,Rattling Sheriff 2,Crooked Cactus
+Rocky Byway,8m5s,Lone Prairie 2,Thirsty Sheriff 2
+Steep Byway 2,6m55s,Howling Bandit,Lone Gunslinger
+Old Draw 2,7m43s,Lone Gunslinger,Golden Buzzard
+Sunbaked Route 4,6m50s,Crooked Canyon,Grizzled Spur 2
+Muddy Trace,6m0s,Golden Tumbleweed,Lazy Gambler 2
+Twisting Ridge,6m55s,Wild Mustang,Wild Buzzard 2
+Dusty Gulch 2,8m27s,Crooked Saloon,Broken Gunslinger 2
+Rocky Gulch,5m51s,Whispering Tumbleweed 2,Copper Cactus 2
+Silent Canyon,5m22s,Copper Cactus 2,Whispering Tumbleweed 2
+Endless Bend 3,6m6s,Grizzled Rattlesnake,Iron Prairie
+Rocky Road 2,7m31s,Iron Prairie,Lucky Sheriff
+Old Draw 3,6m58s,Grizzled Prairie,Wild Cactus
+Muddy Wash,7m49s,Drunken Spur 2,Crooked Tumbleweed 2
+Barren Wash 2,6m16s,Crooked Tumbleweed 2,Golden Vulture 2
+Shattered Road,6m10s,Howling Bandit,Rusty Sheriff
+Rocky Path,6m1s,Broken Barrel,Drunken Prairie 2
+Twisting Road,9m18s,Drunken Prairie 2,Drunken Saloon 2
+Barren Trail,7m8s,Copper Cactus 2,Lone Longhorn
+Rocky Fork 3,5m7s,Crooked Gunslinger,Thirsty Sheriff 3
+Forgotten Canyon 2,5m7s,Sunburnt Spur,Howling Tavern
+Silent Byway,8m18s,Crooked Gunslinger,Lone Mustang 2
+Silent Route 5,4m4s,Grizzled Prairie,Howling Coyote 2
+Endless Wash,7m11s,Howling Bandit,Crooked Vulture
+Muddy Bend 4,4m45s,Whispering Canyon,Ragged Vulture
+Rocky Trace 3,8m17s,Crooked Longhorn,Wild Buzzard 3
+Steep Ridge,7m19s,Lazy Gambler 2,Thirsty Buzzard 2
+Silent Gulch 2,9m34s,Thirsty Buzzard 2,Broken Sheriff
+Barren Byway,5m48s,Drunken Prairie 2,Silver Canyon
+Twisting Route 2,4m56s,Silver Canyon,Broken Spur
+Barren Trail 2,7m12s,Rattling Sheriff 3,Lone Barrel
+Old Pass 2,7m57s,Lone Barrel,Dusty Saloon
+Twisting Ridge 2,7m3s,Lucky Canyon,Lucky Coyote 2
+Silent Pass,6m33s,Lucky Coyote 2,Crooked Longhorn
+Forgotten Path,4m20s,Silver Prairie,Broken Rattlesnake
+Steep Crossing,4m12s,Broken Rattlesnake,Thirsty Barrel
+Muddy Ridge,6m23s,Whispering Tumbleweed 2,Silver Tavern
+Windswept Fork 3,5m10s,Silver Tavern,Silver Canyon
+Silent Route 6,7m25s,Golden Buzzard,Broken Tavern
+Windswept Crossing,7m24s,Rusty Coyote,Rattling Gunslinger 2
+Muddy Trace 2,9m12s,Lone Saloon,Rusty Buzzard
+Barren Wash 3,9m4s,Rusty Buzzard,Dusty Tumbleweed 2
+Forgotten Fork 2,9m14s,Copper Outlaw,Lone Gambler
+Winding Road,7m16s,Whispering Outlaw 2,Lucky Rattlesnake
+Twisting Pass,6m33s,Lucky Rattlesnake,Broken Gunslinger
+Hidden Canyon,4m1s,Lucky Gambler,Crooked Prairie 2
+Winding Pass 2,4m31s,Crooked Vulture,Rusty Bandit 3
+Barren Route 2,5m52s,Rusty Bandit 3,Ragged Vulture
+Muddy Trace 3,5m30s,Crooked Mustang,Lazy Barrel
+Rocky Gulch 2,5m27s,Crooked Buzzard,Grizzled Coyote
+Endless Draw 2,7m23s,Thirsty Vulture,Thirsty Saloon 2
+Hidden Fork 5,7m40s,Crooked Prairie,Crooked Gunslinger 2
+Rocky Fork 4,4m32s,Crooked Prairie,Grizzled Canyon
+Endless Draw 3,8m2s,Grizzled Canyon,Lucky Coyote 2
+Narrow Trail,9m35s,Grizzled Buzzard,Rusty Prairie
+Rocky Trace 4,7m49s,Broken Sheriff,Grizzled Mustang
+Rocky Fork 5,5m27s,Lucky Tavern,Broken Rattlesnake 2
+Barren Ridge,9m36s,Lazy Gunslinger,Lone Coyote
+Forgotten Wash 2,5m0s,Grizzled Buzzard 2,Grizzled Tumbleweed
+Forgotten Gulch 2,9m57s,Broken Rattlesnake,Thirsty Gambler
+Winding Route,8m26s,Thirsty Gambler,Golden Outlaw
+Forgotten Draw,9m10s,Whispering Prairie,Ragged Sheriff
+Narrow Gulch 2,9m38s,Lucky Coyote 2,Ragged Wagon
+Winding Trail,5m18s,Rusty Sheriff,Lone Canyon 2
+Old Route,6m39s,Drunken Outlaw,Rattling Sheriff 4
+Barren Draw 3,7m45s,Lone Canyon 2,Rattling Wagon 2
+Twisting Trace,5m56s,Wild Mustang,Golden Gambler
+Shattered Route 2,4m16s,Broken Rattlesnake,Sunburnt Spur 2
+Hidden Gulch 2,5m39s,Crooked Tumbleweed 2,Rattling Vulture
+Rocky Trail 2,6m15s,Thirsty Sheriff 2,Rattling Gunslinger 3
+Twisting Route 3,9m40s,Rattling Gunslinger 3,Drunken Prairie
+Sunbaked Ridge 2,9m47s,Crooked Longhorn,Lucky Coyote 3
+Silent Route 7,8m17s,Lucky Coyote 3,Crooked Vulture
+Rocky Fork 6,8m50s,Rusty Bandit 3,Crooked Coyote
+Barren Crossing 3,8m57s,Crooked Coyote,Grizzled Cactus
+Endless Pass,5m55s,Lucky Barrel,Silver Cactus 3
+Sunbaked Bend 2,4m57s,Silver Cactus 3,Golden Vulture
+Endless Route 2,6m49s,Golden Outlaw,Ragged Saloon 2
+Muddy Trace 4,9m28s,Whispering Gambler 2,Lucky Spur
+Old Route 2,8m50s,Golden Cactus,Rattling Buzzard
+Narrow Byway 2,9m25s,Rattling Buzzard,Golden Vulture 2
+Twisting Fork 6,5m50s,Rattling Spur,Sunburnt Barrel 3
+Barren Canyon 4,8m13s,Lone Bandit,Dusty Saloon 2
+Sunbaked Route 5,9m9s,Dusty Saloon 2,Sunburnt Buzzard
+Sunbaked Path 3,6m31s,Thirsty Longhorn,Silver Bandit 2
+Endless Pass 2,9m30s,Silver Bandit 2,Dusty Outlaw
+Narrow Crossing 4,7m25s,Sunburnt Buzzard 2,Copper Buzzard
+Silent Route 8,7m55s,Wild Saloon,Lone Rattlesnake 4
+Dusty Draw,9m34s,Whispering Buzzard,Golden Spur
+Sunbaked Draw 2,4m30s,Silver Rattlesnake 2,Thirsty Barrel 2
+Muddy Gulch,7m39s,Lucky Coyote 3,Dusty Barrel
+Dusty Draw 2,4m16s,Whispering Prairie,Iron Gambler
+Barren Pass 2,9m34s,Rusty Sheriff,Silver Vulture 2
+Barren Fork 3,5m3s,Silver Vulture 2,Lucky Gambler
+Sunbaked Gulch 4,9m23s,Ragged Prairie,Dusty Gambler
+Winding Trace 3,9m51s,Sunburnt Sheriff 2,Ragged Mustang
+Twisting Wash 3,6m53s,Drunken Prairie 2,Rusty Tumbleweed
+Barren Wash 4,5m2s,Drunken Prairie,Iron Rattlesnake
+Winding Bend 2,6m31s,Crooked Mustang,Dusty Tavern
+Winding Wash 4,6m59s,Lone Rattlesnake 2,Sunburnt Vulture
+Sunbaked Ridge 3,6m45s,Iron Cactus,Lucky Rattlesnake 2
+Old Crossing 2,5m32s,Silver Coyote 2,Lucky Longhorn
+Rocky Path 2,4m36s,Howling Tumbleweed,Dusty Gunslinger
+Rocky Wash 2,7m8s,Dusty Gunslinger,Crooked Mustang 2
+Rocky Fork 7,7m53s,Howling Gunslinger,Howling Wagon
+Silent Trail,8m14s,Howling Wagon,Wild Buzzard 3
+Shattered Trace 3,9m29s,Lazy Barrel,Copper Saloon
+Barren Crossing 4,6m58s,Grizzled Canyon,Lucky Vulture
+Winding Road 2,5m43s,Lucky Vulture,Whispering Cactus
+Endless Pass 3,6m53s,Whispering Tumbleweed,Lucky Buzzard
+Twisting Path 2,8m54s,Thirsty Longhorn,Crooked Longhorn 2
+Rocky Bend 3,4m23s,Crooked Longhorn 2,Lazy Saloon
+Sunbaked Ridge 4,7m39s,Rattling Gunslinger,Lucky Saloon
+Silent Pass 2,5m30s,Wild Wagon,Drunken Wagon 2
+Dusty Gulch 3,5m15s,Thirsty Saloon,Grizzled Buzzard 4
+Rocky Draw 2,9m4s,Broken Canyon,Iron Bandit
+Winding Draw 4,7m54s,Iron Bandit,Silver Vulture
+Old Path 2,8m26s,Sunburnt Spur 2,Golden Wagon
+Hidden Pass 4,8m0s,Golden Wagon,Iron Cactus 2
+Narrow Canyon 2,4m8s,Lone Rattlesnake 4,Grizzled Coyote 2
+Winding Pass 3,9m32s,Lone Prairie,Lazy Prairie
+Old Crossing 3,7m37s,Thirsty Barrel 2,Grizzled Longhorn
+Sunbaked Gulch 5,9m8s,Iron Vulture,Rattling Barrel
+Dusty Draw 3,7m25s,Rattling Sheriff 2,Rusty Outlaw
+Narrow Fork,9m54s,Broken Bandit,Copper Saloon 2
+Shattered Canyon 3,6m24s,Dusty Outlaw,Howling Longhorn 2
+Barren Route 3,5m59s,Dusty Barrel,Dusty Canyon 3
+Narrow Ridge 2,4m32s,Dusty Canyon 3,Lone Canyon
+Muddy Wash 2,8m29s,Rusty Sheriff,Golden Tavern
+Barren Wash 5,5m30s,Golden Tavern,Lazy Barrel
+Twisting Wash 4,9m50s,Grizzled Gunslinger,Drunken Saloon 3
+Narrow Route 3,4m3s,Drunken Saloon 3,Lucky Gambler
+Narrow Trail 2,5m40s,Lone Prairie 2,Copper Longhorn
+Forgotten Fork 3,9m25s,Copper Longhorn,Lucky Tavern
+Barren Pass 3,6m16s,Grizzled Spur 2,Whispering Tumbleweed 3
+Sunbaked Wash 2,7m14s,Lucky Longhorn,Whispering Tavern
+Muddy Byway 2,8m45s,Whispering Tavern,Sunburnt Barrel
+Rocky Byway 2,8m52s,Thirsty Sheriff,Rusty Rattlesnake
+Shattered Gulch 2,8m6s,Grizzled Mustang,Thirsty Gunslinger
+Barren Byway 2,7m36s,Howling Coyote 2,Ragged Wagon 2
+Barren Path 3,9m41s,Broken Gunslinger,Howling Gambler
+Winding Trail 2,5m18s,Grizzled Prairie,Ragged Wagon 3
+Dusty Byway 2,7m51s,Ragged Wagon 3,Thirsty Longhorn
+Twisting Route 4,8m11s,Lone Rattlesnake 4,Whispering Coyote 3
+Muddy Canyon 2,6m24s,Whispering Coyote 3,Lucky Rattlesnake 2
+Barren Fork 4,9m15s,Rattling Barrel,Lazy Canyon
+Twisting Path 3,8m15s,Whispering Tumbleweed 2,Grizzled Vulture
+Sunbaked Trail,5m58s,Grizzled Vulture,Whispering Gambler 2
+Steep Draw,6m31s,Sunburnt Buzzard,Sunburnt Gunslinger
+Old Trail,5m39s,Grizzled Spur 2,Wild Buzzard 4
+Winding Wash 5,7m21s,Wild Buzzard 4,Crooked Coyote
+Barren Wash 6,6m44s,Golden Outlaw 2,Drunken Longhorn
+Muddy Trace 5,8m39s,Copper Bandit,Howling Outlaw
+Shattered Bend 3,9m17s,Howling Outlaw,Drunken Gambler
+Silent Draw 2,7m15s,Howling Cactus,Sunburnt Vulture 2
+Forgotten Ridge 2,5m41s,Iron Cactus,Rattling Buzzard 2
+Rocky Draw 3,8m56s,Thirsty Gambler,Rusty Bandit 4
+Shattered Crossing 3,5m25s,Lone Rattlesnake 4,Lone Saloon 2
+Shattered Trace 4,5m35s,Lone Saloon 2,Sunburnt Spur 2
+Muddy Pass 3,5m38s,Grizzled Buzzard 2,Lone Buzzard 2
+Forgotten Wash 3,7m36s,Lone Buzzard 2,Dusty Barrel
+Steep Pass,6m33s,Dusty Saloon,Ragged Rattlesnake
+Sunbaked Pass 2,5m53s,Ragged Rattlesnake,Howling Tavern
+Windswept Path 2,6m2s,Lone Canyon,Lone Coyote 2
+Narrow Gulch 3,9m31s,Lone Rattlesnake 2,Silver Vulture 3
+Dusty Crossing,4m34s,Ragged Wagon 2,Rusty Cactus 2
+Endless Route 3,5m59s,Rattling Sheriff,Dusty Barrel 2
+Windswept Canyon,9m58s,Dusty Barrel 2,Grizzled Buzzard
+Narrow Canyon 3,9m6s,Ragged Sheriff,Lone Spur
+Sunbaked Canyon,7m57s,Silver Rattlesnake 2,Wild Gambler
+Narrow Trail 3,7m15s,Wild Gambler,Silver Tavern
+Windswept Fork 4,6m41s,Howling Wagon,Dusty Gunslinger 2
+Shattered Path 4,5m47s,Dusty Gunslinger 2,Thirsty Saloon 2
+Hidden Road 5,7m8s,Ragged Prairie,Drunken Barrel
+Dusty Ridge,8m58s,Drunken Barrel,Crooked Prairie 2
+Rocky Trace 5,6m14s,Dusty Gambler,Howling Bandit 2
+Windswept Pass 2,4m16s,Howling Bandit 2,Sunburnt Barrel 2
+Sunbaked Crossing 2,5m28s,Iron Vulture 2,Wild Prairie
+Dusty Draw 4,5m53s,Silver Prairie,Broken Sheriff 2
+Muddy Crossing 2,5m30s,Rusty Gunslinger,Grizzled Barrel 2
+Endless Path 4,8m22s,Howling Tavern,Lone Longhorn 2
+Hidden Trace,9m17s,Iron Vulture,Grizzled Rattlesnake 2
+Windswept Wash 2,4m58s,Ragged Wagon,Howling Coyote 3
+Endless Trace,7m6s,Howling Coyote 3,Broken Sheriff 2
+Old Road 3,6m1s,Dusty Barrel,Rusty Cactus 3
+Forgotten Road 2,5m17s,Lucky Longhorn,Lazy Outlaw
+Winding Trace 4,4m54s,Lazy Outlaw,Crooked Canyon
+Muddy Ridge 2,9m42s,Whispering Coyote 3,Ragged Mustang 2
+Hidden Road 6,4m58s,Ragged Mustang 2,Thirsty Sheriff 2
+Windswept Draw,9m18s,Rattling Gunslinger,Broken Vulture
+Winding Crossing 3,4m41s,Broken Vulture,Silver Cactus 2
+Barren Ridge 2,6m56s,Rusty Tumbleweed,Grizzled Wagon 2
+Muddy Trail 3,8m18s,Grizzled Wagon 2,Thirsty Saloon 2
+Forgotten Byway 3,8m55s,Rattling Buzzard 2,Drunken Barrel 2
+Endless Bend 4,6m54s,Drunken Barrel 2,Lone Spur
+Twisting Path 4,6m51s,Lucky Bandit,Iron Longhorn
+Narrow Pass,7m40s,Wild Buzzard 3,Grizzled Bandit
+Narrow Wash,4m55s,Golden Vulture 2,Whispering Tumbleweed 4
+Hidden Crossing,9m42s,Whispering Tumbleweed 4,Lone Tavern
+Sunbaked Bend 3,9m26s,Dusty Gunslinger 2,Lone Mustang 3
+Hidden Trace 2,7m34s,Lone Mustang 3,Dusty Barrel
+Twisting Path 5,6m46s,Lone Mustang,Copper Wagon
+Steep Trail 4,6m36s,Howling Cactus,Lucky Saloon 2
+Rocky Fork 8,4m56s,Lucky Saloon 2,Sunburnt Gunslinger
+Sunbaked Fork,6m28s,Wild Buzzard 2,Silver Longhorn
+Old Gulch 4,6m11s,Copper Saloon 2,Dusty Mustang
+Narrow Fork 2,7m44s,Grizzled Coyote 2,Grizzled Saloon
+Old Route 3,5m49s,Lone Rattlesnake 3,Thirsty Longhorn 2
+Muddy Byway 3,7m10s,Thirsty Longhorn 2,Wild Buzzard 3
+Dusty Draw 5,4m16s,Lucky Rattlesnake 2,Broken Gunslinger 3
+Narrow Trail 4,8m56s,Broken Gunslinger 3,Silver Vulture
+Barren Trace,6m45s,Rusty Bandit,Drunken Outlaw 2
+Twisting Fork 7,5m16s,Whispering Tumbleweed 4,Sunburnt Coyote
+Muddy Canyon 3,8m45s,Broken Cactus 2,Crooked Vulture 2
+Windswept Road 2,6m14s,Crooked Vulture 2,Rattling Gunslinger
+Muddy Pass 4,8m7s,Lone Cactus 2,Rusty Bandit 5
+Forgotten Draw 2,7m6s,Rusty Bandit 5,Dusty Tumbleweed
+Windswept Wash 3,4m51s,Lone Prairie,Rusty Canyon
+Sunbaked Trace,9m51s,Sunburnt Gunslinger,Lone Coyote 3
+Sunbaked Crossing 3,8m18s,Crooked Prairie,Drunken Tavern
+Endless Fork 3,6m39s,Drunken Tavern,Rattling Sheriff 4
+Endless Route 4,6m26s,Lone Mustang 2,Dusty Rattlesnake
+Barren Crossing 5,9m36s,Lazy Saloon,Silver Gambler
+Rocky Draw 4,6m12s,Ragged Mustang 2,Thirsty Coyote
+Shattered Trace 5,5m23s,Thirsty Coyote,Grizzled Buzzard
+Hidden Draw 3,7m57s,Lucky Gambler,Drunken Canyon
+Shattered Wash 2,10m0s,Lucky Spur,Lucky Longhorn 2
+Forgotten Wash 4,9m52s,Crooked Vulture 2,Lone Longhorn 3
+Dusty Trail 3,6m49s,Lone Longhorn 3,Ragged Gunslinger
+Muddy Gulch 2,4m40s,Thirsty Buzzard 2,Whispering Outlaw 3
+Old Gulch 5,7m11s,Sunburnt Spur,Lazy Rattlesnake
+Old Byway 3,8m31s,Howling Longhorn,Grizzled Buzzard 5
+Shattered Ridge 3,6m15s,Howling Saloon 2,Lucky Prairie
+Windswept Trace,6m41s,Grizzled Saloon,Rusty Longhorn
+Shattered Byway 2,8m15s,Rusty Longhorn,Broken Buzzard
+Steep Canyon 2,7m30s,Thirsty Sheriff,Copper Mustang
+Old Road 4,5m35s,Copper Mustang,Copper Cactus 2
+Muddy Pass 5,4m49s,Thirsty Barrel 2,Howling Coyote 4
+Steep Trail 5,9m10s,Wild Cactus,Crooked Cactus 2
+Dusty Ridge 2,5m46s,Crooked Cactus 2,Ragged Rattlesnake
+Shattered Gulch 3,4m43s,Silver Rattlesnake 2,Golden Mustang 2
+Silent Wash 4,8m40s,Grizzled Spur 2,Sunburnt Tumbleweed
+Windswept Crossing 2,4m21s,Rusty Rattlesnake,Lazy Bandit
+Shattered Bend 4,9m20s,Thirsty Barrel 2,Broken Sheriff 3
+Shattered Pass,8m21s,Thirsty Coyote,Crooked Gambler
+Silent Trace 3,8m58s,Crooked Gambler,Drunken Longhorn
+Muddy Ridge 3,6m20s,Whispering Outlaw 2,Silver Prairie 2
+Rocky Trail 3,5m12s,Iron Bandit,Howling Buzzard
+Old Canyon 2,6m47s,Broken Outlaw,Copper Longhorn 2
+Endless Trail,9m33s,Copper Longhorn 2,Whispering Prairie
+Winding Bend 3,4m23s,Silver Cactus 2,Lone Bandit 2
+Muddy Draw 3,4m41s,Ragged Gunslinger,Sunburnt Cactus
+Muddy Path,6m5s,Sunburnt Cactus,Golden Canyon
+Twisting Route 5,9m22s,Silver Cactus 3,Silver Wagon
+Shattered Fork,9m44s,Silver Wagon,Lone Coyote 2
+Dusty Gulch 4,9m59s,Howling Saloon,Ragged Longhorn
+Silent Pass 3,4m21s,Lazy Tavern,Dusty Buzzard
+Hidden Fork 6,5m57s,Silver Cactus 2,Howling Spur
+Barren Fork 5,6m39s,Lone Bandit 2,Thirsty Rattlesnake
+Shattered Draw,6m11s,Thirsty Rattlesnake,Iron Gambler
+Rocky Fork 9,4m50s,Lone Mustang,Dusty Longhorn
+Windswept Road 3,4m43s,Howling Wagon,Lucky Tavern 2
+Silent Ridge 2,4m2s,Lucky Tavern 2,Howling Wagon
+Windswept Ridge 4,8m15s,Ragged Mustang,Broken Rattlesnake 3
+Barren Byway 3,8m8s,Broken Rattlesnake 3,Rattling Sheriff 4
+Dusty Trace 2,6m18s,Thirsty Sheriff 2,Ragged Longhorn 2
+Rocky Route 2,8m17s,Howling Coyote 4,Silver Canyon 2
+Hidden Wash 2,9m59s,Sunburnt Buzzard,Howling Spur 2
+Silent Ridge 3,7m19s,Howling Spur 2,Golden Vulture 2
+Muddy Path 2,6m14s,Broken Gunslinger 2,Whispering Sheriff
+Endless Path 5,9m55s,Whispering Sheriff,Lucky Longhorn
+Rocky Fork 10,9m28s,Broken Tumbleweed,Copper Prairie
+Endless Road 2,8m59s,Crooked Barrel,Thirsty Coyote 2
+Muddy Bend 5,6m36s,Grizzled Rattlesnake,Wild Outlaw
+Forgotten Gulch 3,7m24s,Ragged Longhorn,Grizzled Canyon 2
+Forgotten Crossing,6m20s,Rattling Sheriff 4,Lazy Sheriff
+Winding Crossing 4,4m3s,Dusty Tumbleweed 2,Copper Prairie 2
+Dusty Draw 6,7m0s,Copper Prairie 2,Thirsty Sheriff
+Windswept Trail 4,5m55s,Wild Mustang,Lone Wagon
+Barren Byway 4,4m2s,Dusty Canyon,Drunken Bandit
+Old Path 3,7m14s,Crooked Longhorn 2,Broken Prairie
+Old Trail 2,9m33s,Broken Prairie,Silver Cactus
+Endless Draw 4,6m42s,Drunken Gambler,Sunburnt Tumbleweed 2
+Windswept Crossing 3,9m11s,Dusty Gunslinger,Copper Gunslinger
+Narrow Pass 2,4m24s,Copper Buzzard,Broken Bandit 2
+Silent Route 9,6m28s,Rattling Sheriff,Iron Prairie 2
+Sunbaked Road,4m27s,Iron Prairie 2,Drunken Saloon
+Dusty Pass 4,9m7s,Iron Prairie 2,Wild Gambler 2
+Dusty Trail 4,6m0s,Crooked Longhorn,Golden Saloon
+Dusty Bend 3,6m19s,Grizzled Coyote,Lucky Tumbleweed
+Winding Fork 5,6m56s,Lucky Tumbleweed,Rattling Canyon
+Sunbaked Trail 2,7m22s,Copper Tavern,Lone Tavern 2
+Narrow Route 4,6m3s,Lone Tavern 2,Drunken Canyon
+Endless Trace 2,4m45s,Crooked Mustang,Iron Rattlesnake 2
+Forgotten Wash 5,8m49s,Iron Rattlesnake 2,Lone Mustang 2
+Windswept Route 5,9m45s,Drunken Canyon,Drunken Tumbleweed
+Old Road 5,9m25s,Sunburnt Coyote,Sunburnt Coyote 2
+Shattered Wash 3,9m3s,Thirsty Coyote 2,Sunburnt Rattlesnake
+Old Bend 4,8m10s,Sunburnt Rattlesnake,Silver Rattlesnake 2
+Dusty Trace 3,4m30s,Lazy Gambler,Drunken Bandit 2
+Rocky Trail 4,5m19s,Drunken Bandit 2,Whispering Tumbleweed 3
+Forgotten Draw 3,4m8s,Iron Vulture 2,Broken Bandit 3
+Dusty Crossing 2,9m28s,Broken Bandit 3,Drunken Outlaw
+Dusty Gulch 5,4m15s,Lone Prairie,Dusty Bandit
+Sunbaked Bend 4,6m24s,Whispering Tumbleweed,Grizzled Canyon 3
+Forgotten Draw 4,4m30s,Grizzled Canyon 3,Drunken Tavern
+Winding Path 3,8m21s,Copper Wagon,Wild Saloon 2
+Winding Gulch 4,7m44s,Wild Saloon 2,Lucky Saloon 2
+Barren Crossing 6,6m16s,Dusty Gambler,Lone Cactus 3
+Winding Trail 3,5m12s,Lone Cactus 3,Rusty Cactus
+Rocky Trail 5,4m0s,Crooked Tumbleweed,Copper Bandit 3
+Twisting Draw 2,5m44s,Lucky Tavern,Lazy Coyote
+Winding Draw 5,5m44s,Whispering Gambler 3,Copper Outlaw 2
+Shattered Crossing 4,4m16s,Copper Outlaw 2,Lone Prairie 2
+Dusty Canyon 4,7m32s,Silver Canyon,Sunburnt Sheriff 3
+Rocky Bend 4,8m19s,Sunburnt Sheriff 3,Howling Bandit
+Barren Crossing 7,4m42s,Grizzled Buzzard 3,Iron Wagon
+Windswept Route 6,4m21s,Whispering Tumbleweed 4,Silver Cactus 4
+Hidden Trace 3,4m45s,Rusty Rattlesnake,Copper Sheriff
+Forgotten Fork 4,9m50s,Copper Sheriff,Crooked Saloon 2
+Windswept Road 4,5m0s,Rattling Gunslinger 3,Copper Bandit 4
+Hidden Fork 7,7m28s,Copper Bandit 4,Lazy Rattlesnake
+Barren Pass 4,8m7s,Lone Tavern,Dusty Gunslinger 3
+Rocky Canyon 2,4m28s,Howling Tavern,Thirsty Vulture 2
+Old Road 6,5m56s,Thirsty Vulture 2,Lucky Rattlesnake 2
+Sunbaked Bend 5,5m14s,Iron Cactus,Lone Coyote 4
+Windswept Ridge 5,5m18s,Lone Coyote 4,Drunken Canyon
+Forgotten Bend 3,6m37s,Howling Tavern,Howling Gambler 2
+Rocky Route 3,5m30s,Rusty Bandit 5,Lazy Prairie 2
+Barren Route 4,4m18s,Lazy Prairie 2,Thirsty Saloon
+Twisting Trace 2,7m29s,Lone Buzzard 2,Thirsty Gambler 2
+Silent Crossing 2,5m10s,Thirsty Coyote 2,Drunken Rattlesnake
+Narrow Trace 3,9m35s,Sunburnt Spur,Wild Prairie 2
+Steep Path,9m14s,Wild Rattlesnake,Dusty Tavern 2
+Silent Path 2,6m22s,Howling Rattlesnake,Wild Cactus 2
+Dusty Wash,5m47s,Lone Prairie 2,Copper Spur
+Silent Canyon 2,8m42s,Copper Spur,Silver Vulture
+Narrow Crossing 5,4m23s,Lone Wagon,Howling Canyon
+Rocky Fork 11,6m10s,Howling Canyon,Howling Outlaw
+Dusty Trace 4,7m35s,Broken Cactus 2,Drunken Rattlesnake 2
+Old Pass 3,8m29s,Drunken Outlaw,Lucky Wagon
+Forgotten Byway 4,8m33s,Lucky Wagon,Ragged Saloon
+Windswept Ridge 6,6m20s,Dusty Saloon 2,Ragged Tavern
+Hidden Trail 2,4m9s,Crooked Longhorn,Crooked Buzzard 2
+Old Crossing 4,10m0s,Crooked Buzzard 2,Drunken Prairie 2
+Old Trace 2,8m34s,Broken Vulture,Crooked Mustang 3
+Winding Route 2,8m0s,Silver Coyote 2,Grizzled Cactus 2
+Barren Byway 5,9m37s,Ragged Wagon,Golden Canyon 2
+Hidden Bend 2,5m33s,Dusty Tumbleweed,Broken Prairie 2
+Barren Canyon 5,9m29s,Lazy Gambler 2,Copper Tumbleweed
+Silent Crossing 3,7m0s,Grizzled Buzzard 2,Drunken Gambler 2
+Windswept Route 7,8m59s,Grizzled Barrel,Whispering Rattlesnake
+Silent Pass 4,6m55s,Whispering Rattlesnake,Drunken Canyon
+Muddy Gulch 3,5m41s,Whispering Gambler 3,Thirsty Prairie 2
+Old Wash 2,9m57s,Lone Rattlesnake 4,Lone Prairie 3
+Rocky Fork 12,5m32s,Lone Prairie 3,Grizzled Coyote
+Winding Path 4,4m39s,Broken Sheriff,Howling Outlaw 2
+Barren Trail 3,5m31s,Thirsty Wagon,Rattling Outlaw 2
+Barren Draw 4,4m41s,Dusty Canyon 2,Rattling Bandit
+Old Road 7,7m6s,Howling Wagon,Howling Sheriff
+Forgotten Draw 5,8m57s,Drunken Bandit,Sunburnt Vulture 3
+Barren Ridge 3,8m9s,Ragged Saloon,Silver Cactus 5
+Muddy Ridge 4,5m58s,Silver Cactus 5,Rattling Wagon
+Narrow Fork 3,8m56s,Lazy Prairie,Ragged Buzzard 2
+Narrow Pass 3,6m14s,Thirsty Sheriff 3,Crooked Buzzard 3
+Rocky Path 3,9m1s,Lucky Tumbleweed,Lucky Spur 2
+Rocky Bend 5,9m11s,Lone Coyote 3,Thirsty Gambler 3
+Old Ridge 2,8m0s,Wild Mustang,Wild Mustang 3
+Sunbaked Trail 3,6m42s,Wild Mustang 3,Rattling Canyon
+Windswept Gulch 2,7m51s,Lucky Coyote 2,Iron Bandit 2
+Shattered Bend 5,5m53s,Howling Vulture,Grizzled Mustang 2
+Steep Crossing 2,4m59s,Lone Coyote 3,Silver Buzzard
+Old Trace 3,8m39s,Iron Bandit 2,Rusty Tumbleweed 2
+Sunbaked Ridge 5,6m30s,Thirsty Prairie,Rattling Cactus
+Hidden Trail 3,7m22s,Rattling Cactus,Lone Cactus 2
+Old Ridge 3,5m38s,Crooked Buzzard,Rusty Barrel
+Steep Canyon 3,6m33s,Dusty Outlaw,Silver Gunslinger
+Hidden Crossing 2,8m11s,Silver Cactus 2,Rusty Mustang
+Shattered Path 5,4m13s,Broken Gunslinger,Silver Longhorn 2
+Old Draw 4,9m40s,Howling Buzzard,Iron Longhorn 2
+Dusty Path 3,8m37s,Iron Longhorn 2,Thirsty Buzzard
+Sunbaked Gulch 6,6m23s,Silver Buzzard,Rattling Cactus 2
+Windswept Gulch 3,6m7s,Lucky Coyote,Lone Cactus 4
+Barren Byway 6,4m13s,Broken Sheriff 3,Dusty Prairie
+Rocky Trace 6,4m51s,Crooked Gunslinger,Drunken Longhorn 2
+Forgotten Path 2,7m11s,Copper Prairie,Lucky Tavern 3
+Endless Trace 3,7m35s,Lucky Tavern 3,Golden Tumbleweed
+Silent Fork 3,7m27s,Silver Cactus 4,Lone Bandit 3
+Endless Trail 2,5m49s,Lone Bandit 3,Dusty Rattlesnake
+Forgotten Trace 3,6m27s,Rusty Buzzard,Grizzled Gambler
+Dusty Bend 4,4m23s,Drunken Longhorn 2,Wild Bandit 2
+Rocky Ridge,6m54s,Thirsty Mustang,Silver Longhorn 3
+Old Trace 4,7m0s,Whispering Outlaw 3,Copper Buzzard 2
+Barren Draw 5,5m21s,Golden Tumbleweed,Lucky Gambler 2
+Silent Path 3,8m29s,Iron Vulture,Thirsty Coyote 3
+Endless Byway 3,7m1s,Thirsty Coyote 3,Iron Bandit
+Barren Canyon 6,9m20s,Drunken Saloon 3,Whispering Gunslinger
+Muddy Gulch 4,8m31s,Whispering Gunslinger,Broken Sheriff 3
+Endless Road 3,5m37s,Wild Mustang 3,Rattling Wagon 3
+Shattered Path 6,8m9s,Rattling Wagon 3,Drunken Canyon
+Endless Path 6,8m53s,Copper Prairie,Rattling Canyon 2
+Old Byway 4,9m6s,Ragged Longhorn 2,Lone Coyote 5
+Narrow Fork 4,8m22s,Lone Wagon,Whispering Cactus 2
+Hidden Path 2,5m26s,Whispering Cactus 2,Whispering Coyote 3
+Barren Route 5,5m8s,Lucky Coyote,Thirsty Barrel 3
+Forgotten Route 2,9m42s,Thirsty Barrel 3,Lazy Rattlesnake
+Dusty Pass 5,6m19s,Copper Saloon,Broken Tavern 2
+Silent Crossing 4,9m17s,Silver Vulture,Lone Longhorn 4
+Narrow Canyon 4,6m5s,Lone Longhorn 4,Golden Tumbleweed
+Barren Byway 7,5m44s,Golden Tumbleweed 2,Rusty Longhorn 2
+Winding Fork 6,7m13s,Whispering Rattlesnake,Drunken Bandit 3
+Forgotten Bend 4,7m48s,Thirsty Buzzard,Broken Bandit 4
+Winding Crossing 5,9m47s,Silver Saloon,Wild Outlaw 2
+Barren Trace 2,9m36s,Whispering Cactus,Grizzled Longhorn 2
+Silent Trace 4,7m50s,Dusty Gunslinger 2,Thirsty Spur
+Silent Draw 3,5m43s,Whispering Gunslinger,Lone Vulture 2
+Winding Route 3,7m3s,Lone Vulture 2,Thirsty Saloon 2
+Sunbaked Draw 3,5m31s,Sunburnt Vulture,Broken Saloon
+Hidden Pass 5,4m4s,Broken Canyon,Thirsty Tumbleweed
+Windswept Fork 5,7m40s,Silver Cactus 2,Rattling Buzzard 3
+Barren Draw 6,9m9s,Golden Outlaw,Lazy Tavern 2
+Silent Trail 2,6m18s,Lazy Tavern 2,Rusty Bandit 2
+Steep Crossing 3,8m32s,Drunken Gambler,Lazy Barrel 2
+Twisting Trail,4m23s,Lone Coyote 2,Grizzled Mustang 3
+Winding Bend 4,6m11s,Lazy Gunslinger,Golden Bandit
+Hidden Crossing 3,9m47s,Copper Outlaw,Grizzled Barrel 3
+Dusty Byway 3,9m9s,Broken Canyon,Silver Tavern 2
+Rocky Road 3,9m18s,Rattling Wagon 2,Lucky Bandit 2
+Muddy Draw 4,9m34s,Lucky Bandit 2,Lucky Sheriff
+Twisting Gulch 2,4m37s,Dusty Rattlesnake,Broken Tumbleweed 2
+Steep Path 2,8m4s,Rattling Gunslinger 2,Rattling Cactus 3
+Rocky Canyon 3,8m7s,Rattling Cactus 3,Lone Coyote 2
+Shattered Byway 3,7m8s,Howling Coyote 2,Iron Gunslinger
+Old Gulch 6,5m37s,Iron Gunslinger,Dusty Gunslinger 3
+Barren Path 4,5m14s,Ragged Gambler,Ragged Gunslinger 2
+Old Byway 5,6m38s,Thirsty Buzzard 2,Whispering Saloon
+Hidden Bend 3,7m14s,Whispering Saloon,Golden Wagon
+Sunbaked Trace 2,3m26s,Copper Canyon,Silver Vulture 2
+Winding Pass 4,4m9s,Silver Vulture 2,Copper Canyon
+Old Canyon 3,1m21s,Copper Canyon,Broken Prairie 2
+Dusty Bend 5,2m4s,Broken Prairie 2,Copper Canyon
+Windswept Road 5,1m45s,Copper Canyon,Broken Tumbleweed
+Steep Road 4,6m26s,Broken Tumbleweed,Copper Canyon
+Old Bend 5,4m22s,Copper Canyon,Drunken Barrel
+Rocky Trace 7,4m53s,Drunken Barrel,Copper Canyon
+Steep Crossing 4,2m50s,Copper Canyon,Golden Mustang
+Endless Road 4,5m30s,Golden Mustang,Copper Canyon
+Sunbaked Wash 3,1m22s,Copper Canyon,Rusty Buzzard
+Narrow Pass 4,2m19s,Rusty Buzzard,Copper Canyon
+Sunbaked Fork 2,2m10s,Copper Canyon,Iron Longhorn 2
+Narrow Bend 5,2m23s,Iron Longhorn 2,Copper Canyon
+Hidden Byway 4,8m55s,Ragged Gunslinger,Iron Vulture 2
+Muddy Path 3,4m7s,Sunburnt Cactus,Grizzled Buzzard 3
+Twisting Canyon 3,7m28s,Iron Cactus,Grizzled Coyote
+Steep Ridge 2,7m1s,Silver Vulture 3,Lone Cactus 3
+Twisting Trail 2,9m21s,Dusty Gunslinger,Dusty Mustang
+Endless Canyon,5m33s,Lucky Coyote 2,Rattling Buzzard
+Steep Pass 2,7m29s,Lucky Rattlesnake 2,Lazy Barrel 2
+Endless Trail 3,5m11s,Silver Gunslinger,Whispering Tumbleweed 2
+Rocky Crossing 2,4m56s,Sunburnt Buzzard,Silver Gambler
+Windswept Trail 5,7m13s,Howling Bandit 2,Grizzled Buzzard 5
+Rocky Fork 13,8m43s,Thirsty Vulture,Grizzled Spur
+Rocky Crossing 3,6m11s,Thirsty Bandit,Lone Bandit 2
+Muddy Route,4m14s,Rattling Spur,Howling Wagon
+Old Draw 5,7m15s,Ragged Vulture,Rusty Bandit 4
+Forgotten Crossing 2,4m27s,Rattling Spur,Drunken Canyon
+Twisting Path 6,8m29s,Dusty Tumbleweed 2,Iron Tavern
+Dusty Trail 5,6m16s,Howling Coyote,Drunken Wagon 2
+Twisting Wash 5,8m39s,Dusty Buzzard,Drunken Spur 2
+Muddy Fork,9m48s,Drunken Prairie,Drunken Gambler 2
+Narrow Bend 6,5m51s,Thirsty Buzzard 2,Grizzled Tavern
+Steep Road 5,5m55s,Wild Rattlesnake,Copper Spur
+Narrow Trace 4,4m57s,Wild Prairie 2,Grizzled Rattlesnake
+Hidden Crossing 4,8m52s,Whispering Cactus 2,Golden Buzzard
+Windswept Ridge 7,5m13s,Grizzled Prairie,Lucky Longhorn 2
+Hidden Bend 4,7m14s,Ragged Bandit,Lucky Rattlesnake 2
+Sunbaked Trace 3,8m28s,Lone Bandit 3,Lucky Saloon
+Twisting Fork 8,7m24s,Rattling Sheriff 2,Rusty Longhorn
+Old Route 4,5m32s,Lone Vulture,Rattling Canyon
+Muddy Ridge 5,4m59s,Drunken Bandit,Whispering Buzzard
+Twisting Byway 2,6m10s,Lone Prairie 3,Wild Bandit
+Forgotten Crossing 3,7m49s,Golden Wagon,Grizzled Buzzard 2
+Steep Byway 3,4m42s,Ragged Wagon 3,Dusty Canyon 3
+Rocky Trail 6,4m3s,Whispering Outlaw 2,Lone Gambler
+Dusty Ridge 3,8m18s,Dusty Canyon 3,Iron Prairie 2
+Windswept Path 3,5m21s,Lone Rattlesnake,Rusty Rattlesnake
+Muddy Bend 6,9m53s,Thirsty Coyote 2,Rusty Tumbleweed 2
+Steep Path 3,9m31s,Wild Mustang 2,Lone Prairie
+Twisting Draw 3,4m49s,Whispering Tumbleweed 2,Wild Buzzard 3
+Hidden Ridge 4,6m51s,Lone Tavern 2,Grizzled Mustang 2
+Muddy Wash 3,7m37s,Rattling Cactus 2,Dusty Gunslinger
+Endless Draw 5,3m24s,Lucky Sheriff,Sunburnt Canyon
+Twisting Route 6,9m18s,Copper Saloon 2,Grizzled Tumbleweed
+Narrow Gulch 4,8m0s,Ragged Buzzard,Howling Longhorn
+Forgotten Ridge 3,6m25s,Lone Bandit 3,Rusty Gambler
+Dusty Path 4,9m45s,Wild Barrel,Dusty Tumbleweed 2
+Barren Ridge 4,7m35s,Wild Buzzard 3,Rusty Rattlesnake
+Barren Canyon 7,4m19s,Ragged Bandit,Howling Coyote 2
+Twisting Crossing 2,6m22s,Broken Rattlesnake 2,Lone Rattlesnake
+Old Trail 3,4m29s,Lone Bandit,Grizzled Barrel 2
+Old Pass 4,9m19s,Wild Gambler 2,Ragged Mustang
+Winding Gulch 5,6m5s,Broken Canyon,Ragged Buzzard
+Twisting Canyon 4,8m17s,Grizzled Wagon,Rusty Gambler
+Twisting Route 7,4m46s,Lone Coyote 3,Lucky Gambler
+Steep Road 6,5m8s,Lone Bandit,Howling Coyote 4
+Hidden Trail 4,8m26s,Broken Cactus 2,Rusty Canyon
+Sunbaked Route 6,8m24s,Golden Rattlesnake,Rattling Cactus 2
+Silent Fork 4,5m15s,Lone Coyote 3,Grizzled Buzzard 4
+Muddy Crossing 3,8m1s,Crooked Cactus,Sunburnt Cactus
+Windswept Pass 3,9m33s,Silver Vulture,Lazy Tavern
+Old Crossing 5,4m44s,Drunken Bandit 2,Sunburnt Buzzard
+Twisting Gulch 3,9m49s,Grizzled Wagon 2,Iron Rattlesnake
+Twisting Trace 3,9m29s,Whispering Sheriff,Thirsty Barrel 3
+Steep Fork,6m54s,Lucky Longhorn,Sunburnt Spur
+Steep Fork 2,7m43s,Rattling Buzzard 2,Broken Bandit 4
+Twisting Gulch 4,8m35s,Golden Vulture 2,Rattling Canyon 2
+Old Trail 4,8m20s,Rusty Barrel,Ragged Tavern
+Sunbaked Byway 2,5m27s,Howling Wagon,Dusty Tavern
+Winding Route 4,6m0s,Golden Rattlesnake,Lone Cactus 3
+Twisting Draw 4,8m17s,Rattling Outlaw,Thirsty Tumbleweed
+Sunbaked Route 7,7m1s,Lazy Saloon,Broken Spur
+Sunbaked Trail 4,6m49s,Grizzled Buzzard 2,Silver Cactus 3
+Sunbaked Ridge 6,9m59s,Rattling Bandit,Ragged Gunslinger 2
+Twisting Trace 4,4m9s,Rusty Coyote,Rusty Outlaw
+Shattered Gulch 4,9m48s,Iron Bandit 2,Sunburnt Barrel 2
+Winding Ridge 5,9m14s,Lone Mustang 3,Silver Coyote 2
+Forgotten Bend 5,4m11s,Dusty Saloon,Whispering Wagon
+Hidden Pass 6,5m2s,Lucky Coyote 2,Dusty Tavern 2
+Muddy Canyon 4,5m36s,Ragged Sheriff,Sunburnt Coyote
+Narrow Ridge 3,4m19s,Lone Gambler,Sunburnt Gunslinger
+Windswept Trace 2,6m28s,Rattling Cactus,Whispering Tumbleweed 4
+Silent Byway 2,9m7s,Silver Vulture 2,Broken Sheriff 2
+Twisting Crossing 3,8m59s,Silver Wagon,Sunburnt Vulture 3
+Narrow Draw,6m10s,Sunburnt Sheriff 3,Crooked Prairie
+Windswept Wash 4,8m54s,Silver Prairie 2,Grizzled Canyon 3
+Narrow Crossing 6,4m9s,Lone Prairie,Broken Outlaw
+Old Ridge 4,4m15s,Rusty Tumbleweed 2,Iron Vulture
+Forgotten Byway 5,9m7s,Crooked Canyon,Dusty Tavern
+Sunbaked Ridge 7,7m8s,Dusty Saloon,Howling Gunslinger
+Twisting Draw 5,8m6s,Lucky Tavern,Silver Bandit
+Barren Gulch 3,7m2s,Grizzled Spur,Lone Coyote 4
+Windswept Draw 2,4m55s,Drunken Tumbleweed,Rusty Mustang
+Sunbaked Gulch 7,6m51s,Copper Saloon,Ragged Sheriff
+Endless Ridge,9m57s,Grizzled Buzzard 3,Golden Saloon
+Windswept Crossing 4,4m48s,Crooked Gunslinger 2,Lazy Tavern
+Windswept Path 4,5m29s,Lazy Barrel 2,Crooked Gambler
+Silent Bend,9m44s,Crooked Buzzard,Lone Rattlesnake 3
+Sunbaked Trace 4,5m3s,Copper Bandit,Rattling Canyon
+Forgotten Byway 6,6m29s,Iron Longhorn,Dusty Gambler
+Muddy Fork 2,5m44s,Drunken Longhorn 2,Silver Rattlesnake 2
+Windswept Byway 3,8m23s,Iron Prairie 2,Rusty Gambler
+Winding Byway,7m16s,Howling Tumbleweed,Iron Longhorn
+Sunbaked Fork 3,5m20s,Rusty Tumbleweed 2,Drunken Canyon
+Dusty Wash 2,7m54s,Crooked Tumbleweed 2,Copper Wagon
+Silent Gulch 3,6m16s,Wild Buzzard 2,Lone Wagon
+Dusty Wash 3,9m6s,Broken Prairie 2,Thirsty Buzzard
+Steep Route 3,6m58s,Broken Tavern 2,Lone Saloon
+Shattered Route 3,4m7s,Grizzled Longhorn 2,Grizzled Gambler
+Muddy Pass 6,9m31s,Thirsty Gunslinger,Lazy Canyon
+Barren Wash 7,6m32s,Broken Spur,Broken Rattlesnake 2
+Winding Byway 2,4m9s,Lone Mustang 3,Dusty Saloon 2
+Winding Bend 5,5m15s,Lazy Coyote,Thirsty Bandit
+Forgotten Gulch 4,8m27s,Rattling Barrel,Lone Saloon 2
+Silent Trail 3,4m35s,Lone Bandit 2,Broken Sheriff 3
+Shattered Trace 6,4m11s,Whispering Outlaw,Rattling Wagon 2
+Barren Canyon 8,7m42s,Sunburnt Sheriff 3,Lucky Coyote 3
+Dusty Bend 6,6m36s,Drunken Saloon 2,Howling Buzzard
+Barren Gulch 4,7m50s,Crooked Vulture 2,Copper Outlaw
+Hidden Path 3,9m25s,Thirsty Gambler,Silver Cactus 5
+Twisting Trace 5,5m53s,Dusty Rattlesnake,Ragged Gambler
+Endless Draw 6,5m4s,Lucky Prairie,Howling Spur 2
+Windswept Trace 3,7m1s,Rusty Buzzard,Thirsty Vulture
+Winding Road 3,7m10s,Ragged Longhorn,Lone Rattlesnake 4
+Muddy Ridge 6,4m48s,Dusty Saloon 2,Crooked Cactus
+Winding Ridge 6,9m5s,Lone Cactus 4,Crooked Longhorn
+Steep Trace 3,5m23s,Dusty Gunslinger 3,Crooked Mustang
+Steep Road 7,4m43s,Iron Rattlesnake,Crooked Cactus
+Muddy Fork 3,7m57s,Grizzled Buzzard 3,Thirsty Longhorn
+Forgotten Bend 6,6m28s,Lone Canyon,Golden Buzzard
+Endless Pass 4,9m17s,Broken Cactus,Lone Mustang
+Rocky Road 4,4m11s,Rattling Barrel,Copper Spur
+Windswept Gulch 4,7m10s,Lone Cactus 4,Lucky Saloon 2
+Steep Fork 3,8m18s,Silver Vulture 2,Golden Outlaw
+Sunbaked Route 8,6m25s,Grizzled Barrel 3,Drunken Saloon 3
+Dusty Pass 6,7m19s,Wild Mustang,Sunburnt Barrel 2
+Silent Gulch 4,4m21s,Rattling Sheriff,Thirsty Coyote 3
+Hidden Draw 4,4m32s,Drunken Outlaw,Howling Bandit 2
+Barren Bend 2,6m31s,Lucky Canyon,Broken Gunslinger 3
+Forgotten Ridge 4,4m54s,Broken Prairie 2,Lone Rattlesnake
+Narrow Trail 5,9m10s,Golden Outlaw,Copper Mustang
+Twisting Byway 3,7m48s,Thirsty Sheriff 3,Lucky Vulture
+Winding Gulch 6,5m24s,Whispering Gambler,Whispering Coyote 2
+Sunbaked Route 9,6m45s,Silver Sheriff,Broken Tumbleweed
+Rocky Trail 7,6m26s,Grizzled Cactus,Ragged Longhorn
+Winding Byway 3,8m52s,Broken Tumbleweed,Thirsty Bandit
+Twisting Trace 6,9m16s,Broken Barrel,Howling Gambler
+Shattered Route 4,8m46s,Silver Gunslinger,Silver Vulture 2
+Dusty Gulch 6,7m43s,Copper Cactus 2,Golden Gunslinger
+Forgotten Pass,6m33s,Thirsty Gambler 3,Lone Prairie 2
+Hidden Byway 5,9m50s,Copper Saloon,Drunken Tavern
+Barren Gulch 5,4m13s,Sunburnt Coyote 2,Whispering Prairie
+Silent Road 3,5m34s,Copper Buzzard,Iron Prairie
+Shattered Route 5,7m20s,Thirsty Outlaw,Silver Coyote
+Rocky Draw 5,4m40s,Wild Saloon,Silver Gambler
+Barren Path 5,8m40s,Grizzled Bandit,Thirsty Sheriff 3
+Dusty Wash 4,7m29s,Copper Canyon,Thirsty Buzzard
+Shattered Crossing 5,6m17s,Rusty Outlaw,Lone Wagon
+Shattered Canyon 4,8m23s,Lone Cactus,Whispering Canyon
+Forgotten Fork 5,5m2s,Lazy Coyote,Lone Prairie 2
+Endless Draw 7,5m32s,Rattling Canyon,Drunken Longhorn
+Muddy Route 2,8m59s,Rattling Gunslinger,Copper Saloon 2
+Muddy Fork 4,4m0s,Ragged Saloon 2,Lazy Barrel 2
+Winding Trail 4,3m5s,Thirsty Sheriff,Sunburnt Spur
+Old Ridge 5,4m8s,Broken Gunslinger 3,Iron Bandit 2
+Narrow Wash 2,4m29s,Lone Gambler,Sunburnt Rattlesnake
+Shattered Byway 4,8m10s,Lone Longhorn 3,Rattling Sheriff 3
+Rocky Ridge 2,6m3s,Iron Rattlesnake,Silver Gunslinger
+Twisting Route 8,8m17s,Broken Prairie,Lucky Prairie
+Rocky Fork 14,7m25s,Broken Tumbleweed,Golden Vulture 2
+Sunbaked Canyon 2,7m2s,Grizzled Mustang,Drunken Saloon 2
+Shattered Trace 7,9m48s,Ragged Wagon 2,Drunken Bandit
+Windswept Canyon 2,8m52s,Lucky Tavern,Drunken Barrel
+Dusty Canyon 5,8m20s,Silver Longhorn 2,Iron Vulture 2
+Hidden Trace 4,7m34s,Drunken Gambler,Crooked Tumbleweed
+Narrow Fork 5,6m10s,Sunburnt Sheriff,Lone Mustang
+Endless Fork 4,8m34s,Silver Vulture 3,Sunburnt Tumbleweed
+Hidden Path 4,4m40s,Lucky Barrel,Lone Mustang 3
+Forgotten Route 3,6m50s,Lazy Bandit,Broken Canyon
+Windswept Byway 4,7m9s,Thirsty Wagon,Copper Bandit
+Windswept Path 5,7m15s,Wild Saloon,Sunburnt Gunslinger
+Steep Gulch,9m43s,Lone Spur,Broken Tumbleweed 2
+Dusty Wash 5,6m46s,Crooked Buzzard 2,Lazy Gambler
+Forgotten Wash 6,9m51s,Whispering Tumbleweed 4,Wild Rattlesnake
+Old Canyon 4,9m9s,Drunken Barrel 2,Silver Prairie
+Endless Route 5,5m40s,Rusty Longhorn,Howling Canyon
+Twisting Pass 2,9m1s,Lucky Spur,Lucky Longhorn
+Old Bend 6,5m45s,Lone Bandit 2,Lone Coyote 3
+Windswept Trail 6,5m38s,Iron Cactus 2,Drunken Outlaw 2
+Hidden Route,5m37s,Lucky Coyote 2,Silver Longhorn 3
+Muddy Gulch 5,5m52s,Crooked Cactus,Ragged Mustang 2
+Winding Gulch 7,7m36s,Grizzled Coyote,Rusty Bandit 4
+Old Fork 2,8m9s,Howling Saloon,Crooked Longhorn
+Winding Fork 7,8m14s,Rusty Gambler,Dusty Canyon
+Dusty Ridge 4,5m44s,Silver Cactus 3,Silver Saloon
+Rocky Draw 6,8m4s,Howling Gunslinger,Thirsty Vulture
+Shattered Gulch 5,9m51s,Grizzled Spur 2,Thirsty Barrel
+Barren Trail 4,6m16s,Sunburnt Cactus,Copper Mustang
+Steep Byway 4,6m18s,Lazy Prairie,Lone Bandit 2
+Winding Ridge 7,9m23s,Ragged Mustang,Copper Saloon
+Shattered Byway 5,7m30s,Broken Tavern,Broken Outlaw
+Rocky Gulch 3,7m42s,Lazy Gambler,Copper Tavern
+Narrow Wash 3,4m27s,Rusty Bandit 3,Lone Gunslinger
+Old Gulch 7,9m51s,Drunken Saloon 2,Ragged Prairie
+Twisting Ridge 3,8m47s,Iron Rattlesnake,Thirsty Longhorn
+Muddy Byway 4,5m44s,Broken Gunslinger 3,Ragged Wagon
+Hidden Pass 7,6m39s,Wild Mustang,Rusty Coyote
+Hidden Trace 5,6m24s,Thirsty Saloon 2,Sunburnt Coyote
+Windswept Ridge 8,7m36s,Wild Outlaw,Drunken Gambler
+Hidden Byway 6,7m12s,Ragged Tavern,Lone Spur
+Silent Trail 4,4m3s,Silver Buzzard,Lazy Outlaw
+Rocky Bend 6,7m44s,Dusty Tumbleweed 2,Crooked Saloon
+Endless Ridge 2,8m40s,Crooked Buzzard,Rusty Cactus 2
+Hidden Canyon 2,7m15s,Lone Coyote 4,Ragged Buzzard
+Hidden Trace 6,4m12s,Wild Barrel,Dusty Tavern
+Forgotten Canyon 3,4m33s,Dusty Canyon 3,Broken Rattlesnake 3
+Forgotten Ridge 5,8m1s,Ragged Longhorn,Rusty Cactus 2
+Twisting Crossing 4,4m7s,Drunken Outlaw,Drunken Canyon
+Barren Trace 3,4m27s,Lazy Gambler 2,Rusty Coyote
+Silent Gulch 5,6m5s,Lone Saloon 2,Lone Coyote 2
+Silent Draw 4,7m32s,Copper Gunslinger,Thirsty Rattlesnake
+Hidden Trace 7,5m40s,Copper Longhorn,Sunburnt Vulture 2
+Winding Canyon,5m22s,Lone Mustang,Dusty Barrel
+Silent Trail 5,4m50s,Rattling Cactus,Whispering Tavern
+Winding Gulch 8,5m42s,Whispering Cactus 2,Whispering Tavern
+Endless Wash 2,8m6s,Ragged Wagon,Golden Canyon
+Rocky Byway 3,6m59s,Lone Bandit 3,Rattling Outlaw 2
+Steep Canyon 4,5m51s,Dusty Gunslinger,Lone Prairie 3
+Endless Pass 5,8m50s,Grizzled Coyote,Silver Canyon
+Rocky Pass 2,6m59s,Drunken Longhorn 2,Wild Prairie
+Shattered Fork 2,8m2s,Ragged Mustang,Ragged Longhorn 2
+Barren Fork 6,4m1s,Iron Bandit,Copper Saloon
+Hidden Wash 3,4m55s,Whispering Coyote 3,Golden Vulture 2
+Muddy Bend 7,7m9s,Grizzled Barrel 2,Sunburnt Tumbleweed 2
+Steep Path 4,5m29s,Lazy Gunslinger,Drunken Spur
+Sunbaked Gulch 8,8m47s,Silver Wagon,Lone Prairie
+Hidden Canyon 3,4m40s,Silver Buzzard,Copper Cactus
+Twisting Canyon 5,4m41s,Howling Tumbleweed,Wild Cactus
+Muddy Gulch 6,7m22s,Thirsty Wagon,Howling Saloon
+Barren Route 6,5m3s,Sunburnt Cactus,Lone Rattlesnake 3
+Forgotten Pass 2,4m0s,Howling Buzzard,Sunburnt Vulture 3
+Barren Draw 7,8m46s,Broken Spur,Whispering Outlaw 3
+Old Bend 7,8m50s,Whispering Prairie,Dusty Tumbleweed
+Twisting Crossing 5,5m36s,Howling Coyote 3,Sunburnt Barrel 3
+Dusty Path 5,7m25s,Drunken Prairie,Lone Longhorn
+Muddy Trail 4,7m23s,Whispering Wagon,Crooked Longhorn
+Shattered Path 7,9m43s,Lone Barrel,Wild Buzzard 2
+Shattered Draw 2,6m45s,Silver Sheriff,Howling Coyote 4
+Hidden Fork 8,4m57s,Silver Cactus,Grizzled Longhorn
+Narrow Ridge 4,5m4s,Copper Buzzard 2,Ragged Prairie
+Shattered Path 8,6m46s,Rusty Bandit 2,Lucky Sheriff
+Hidden Pass 8,9m8s,Howling Gambler 2,Lone Rattlesnake 2
+Silent Trail 6,6m33s,Copper Outlaw,Sunburnt Tumbleweed 2
+Hidden Byway 7,6m58s,Wild Gambler 2,Golden Wagon
+Rocky Ridge 3,4m28s,Drunken Gambler,Lucky Gambler
+Hidden Path 5,5m38s,Grizzled Prairie,Ragged Bandit
+Winding Trace 5,7m24s,Rattling Wagon 3,Crooked Tumbleweed 2
+Old Byway 6,6m7s,Thirsty Sheriff 2,Thirsty Outlaw
+Forgotten Draw 6,6m25s,Dusty Tavern 2,Silver Cactus 4
+Silent Ridge 4,9m14s,Lone Longhorn 4,Silver Longhorn
+Rocky Road 5,9m56s,Iron Cactus 2,Thirsty Gambler 3
+Forgotten Byway 7,7m51s,Crooked Buzzard 2,Lazy Gambler 2
+Hidden Trace 8,4m10s,Grizzled Buzzard,Iron Tavern
+Old Crossing 6,4m29s,Wild Cactus 2,Grizzled Tavern
+Old Bend 8,4m25s,Lucky Rattlesnake 2,Dusty Mustang
+Twisting Byway 4,8m48s,Crooked Mustang 2,Grizzled Tavern
+Narrow Byway 3,4m22s,Golden Canyon 2,Lone Cactus 3
+Forgotten Byway 8,6m34s,Rusty Buzzard,Lazy Sheriff
+Old Byway 7,7m23s,Grizzled Spur,Wild Prairie
+Narrow Trace 5,9m47s,Lucky Tumbleweed,Grizzled Outlaw
+Shattered Route 6,7m37s,Lone Coyote,Lone Cactus 3
+Steep Ridge 3,4m31s,Iron Rattlesnake,Grizzled Buzzard 4
+Muddy Trace 6,9m37s,Lone Coyote 3,Broken Gunslinger 3
+Old Draw 6,5m56s,Grizzled Barrel 3,Golden Mustang 2
+Twisting Trace 7,9m46s,Rusty Gambler,Howling Longhorn 2
+Winding Byway 4,5m14s,Dusty Tavern,Grizzled Mustang 2
+Hidden Gulch 3,4m10s,Rusty Bandit,Broken Outlaw
+Silent Trace 5,6m11s,Grizzled Cactus,Rattling Vulture
+Narrow Canyon 5,6m26s,Copper Gunslinger,Rattling Canyon 2
+Muddy Wash 4,4m30s,Rusty Buzzard,Dusty Prairie
+Endless Road 5,5m16s,Silver Prairie,Lone Coyote 2
+Narrow Road,5m27s,Whispering Wagon,Sunburnt Spur 2
+Twisting Gulch 5,7m33s,Silver Cactus,Golden Rattlesnake
+Barren Bend 3,4m50s,Silver Cactus 3,Rattling Cactus 3
+Barren Road 5,7m24s,Drunken Rattlesnake 2,Dusty Prairie
+Sunbaked Route 10,5m3s,Broken Spur,Silver Canyon
+Old Gulch 8,5m37s,Rusty Prairie,Broken Gunslinger
+Shattered Canyon 5,4m8s,Lone Mustang 2,Broken Gunslinger 3
+Endless Crossing 2,9m59s,Grizzled Spur,Golden Vulture 2
+Winding Bend 6,5m11s,Dusty Gunslinger 2,Copper Wagon
+Narrow Road 2,5m39s,Lone Buzzard,Ragged Vulture
+Muddy Road 4,7m4s,Lazy Tavern 2,Iron Rattlesnake
+Sunbaked Wash 4,7m47s,Iron Prairie,Drunken Tumbleweed
+Twisting Fork 9,4m7s,Howling Tavern,Lazy Barrel
+Endless Trail 4,7m27s,Golden Canyon 2,Silver Saloon
+Dusty Wash 6,9m59s,Rusty Longhorn,Thirsty Mustang
+Shattered Crossing 6,7m48s,Whispering Saloon,Silver Coyote
+Sunbaked Pass 3,6m0s,Ragged Sheriff,Broken Spur
+Old Canyon 5,4m55s,Silver Cactus 3,Ragged Longhorn 2
+Forgotten Road 3,8m14s,Silver Vulture 3,Lucky Coyote 3
+Narrow Road 3,4m38s,Howling Wagon,Rusty Buzzard
+Steep Road 8,6m52s,Sunburnt Tumbleweed 2,Howling Spur
+Forgotten Pass 3,7m9s,Rattling Bandit,Lone Buzzard
+Twisting Pass 3,4m33s,Rattling Wagon,Crooked Saloon
+Narrow Gulch 5,9m50s,Thirsty Barrel 2,Lucky Longhorn
+Barren Ridge 5,7m14s,Golden Rattlesnake,Grizzled Wagon
+Sunbaked Ridge 8,7m13s,Silver Rattlesnake 2,Ragged Saloon 2
+Shattered Wash 4,5m23s,Wild Barrel,Golden Bandit
+Narrow Fork 6,9m6s,Broken Spur,Crooked Tumbleweed
+Muddy Wash 5,5m23s,Rattling Sheriff,Grizzled Tavern
+Forgotten Draw 7,7m51s,Broken Tumbleweed 2,Wild Prairie
+Dusty Trail 6,8m17s,Dusty Rattlesnake,Dusty Tumbleweed 2
+Sunbaked Path 4,5m31s,Thirsty Mustang,Silver Cactus 2
+Hidden Bend 5,8m24s,Wild Bandit 2,Thirsty Wagon
+Shattered Byway 6,5m54s,Whispering Sheriff,Rattling Coyote
+Rocky Path 4,6m6s,Thirsty Gambler 3,Silver Canyon
+Windswept Fork 6,7m37s,Sunburnt Barrel 3,Thirsty Sheriff 3
+Muddy Trace 7,9m9s,Howling Vulture,Wild Cactus
+Sunbaked Route 11,9m46s,Golden Tumbleweed,Lucky Canyon
+Steep Path 5,9m45s,Thirsty Mustang,Ragged Gunslinger
+Old Bend 9,9m38s,Wild Outlaw,Broken Sheriff 3
+Sunbaked Route 12,6m29s,Golden Gunslinger,Lone Cactus 4
+Rocky Ridge 4,6m24s,Grizzled Saloon,Howling Gambler 2
+Winding Pass 5,4m18s,Lone Coyote 2,Iron Rattlesnake
+Muddy Canyon 5,5m26s,Wild Rattlesnake,Whispering Tumbleweed
+Sunbaked Draw 4,7m33s,Lone Canyon 2,Silver Vulture 2
+Forgotten Canyon 4,4m47s,Thirsty Coyote 3,Copper Longhorn 2
+Muddy Draw 5,8m53s,Silver Cactus 5,Lone Prairie 3
+Twisting Ridge 4,5m20s,Howling Rattlesnake,Silver Sheriff
+Narrow Gulch 6,9m5s,Rattling Vulture,Lone Vulture 2
+Silent Bend 2,6m27s,Wild Mustang 2,Lone Cactus 4
+Steep Wash,9m16s,Rusty Gambler,Crooked Gunslinger 2
+Twisting Trail 3,4m11s,Sunburnt Cactus,Lazy Coyote
+Narrow Bend 7,8m5s,Golden Gambler,Thirsty Bandit
+Rocky Crossing 4,9m42s,Broken Prairie 2,Silver Rattlesnake 2
+Twisting Path 7,4m56s,Sunburnt Sheriff 2,Broken Bandit 2
+Forgotten Fork 6,7m42s,Whispering Outlaw,Golden Tumbleweed
+Winding Crossing 6,4m6s,Broken Tumbleweed 2,Rusty Bandit 4
+Steep Trace 4,8m25s,Thirsty Rattlesnake,Grizzled Outlaw
+Forgotten Route 4,7m54s,Iron Bandit 2,Crooked Mustang
+Endless Path 7,6m49s,Howling Wagon,Lucky Tavern 3
+Muddy Gulch 7,7m49s,Golden Outlaw,Lone Mustang 2
+Barren Wash 8,4m17s,Howling Outlaw,Ragged Buzzard 2
+Winding Pass 6,4m48s,Thirsty Vulture,Ragged Prairie
+Narrow Byway 4,4m11s,Silver Canyon 2,Lucky Tavern
+Winding Trace 6,7m46s,Lucky Spur,Grizzled Cactus 2
+Rocky Crossing 5,6m47s,Copper Saloon,Dusty Tavern
+Muddy Wash 6,5m33s,Ragged Wagon 2,Rattling Spur
+Rocky Route 4,8m51s,Whispering Tumbleweed 2,Broken Tumbleweed 2
+Silent Path 4,7m5s,Thirsty Vulture 2,Iron Gambler
+Twisting Bend,7m30s,Copper Mustang,Howling Coyote 2
+Old Gulch 9,9m2s,Sunburnt Barrel,Lucky Rattlesnake 2
+Shattered Gulch 6,4m16s,Iron Rattlesnake,Broken Gunslinger 2
+Muddy Ridge 7,7m10s,Rattling Wagon 2,Lone Gambler
+Narrow Gulch 7,9m33s,Dusty Tavern,Broken Gunslinger
+Steep Bend 3,5m39s,Rusty Sheriff,Wild Buzzard 3
+Winding Crossing 7,6m17s,Grizzled Buzzard,Dusty Canyon 3
+Twisting Route 9,4m42s,Lucky Coyote,Dusty Barrel 2
+Shattered Gulch 7,6m17s,Grizzled Outlaw,Golden Tumbleweed 2
+Narrow Byway 5,6m53s,Lazy Saloon,Dusty Tumbleweed
+Sunbaked Ridge 9,4m47s,Lazy Gambler,Broken Rattlesnake 2
+Rocky Road 6,9m37s,Howling Gunslinger,Lazy Prairie 2
+Endless Crossing 3,8m14s,Wild Buzzard 2,Ragged Wagon 3
+Rocky Ridge 5,9m32s,Lone Gunslinger,Golden Mustang
+Endless Pass 6,8m16s,Lazy Saloon,Grizzled Longhorn 2
+Forgotten Road 4,9m42s,Howling Buzzard,Wild Cactus 2
+Windswept Crossing 5,5m52s,Broken Sheriff 2,Lucky Saloon 2
+Narrow Ridge 5,6m13s,Thirsty Tumbleweed,Grizzled Canyon 3
+Hidden Bend 6,9m1s,Lone Gambler,Crooked Prairie 2
+Rocky Path 5,9m20s,Lucky Coyote 2,Whispering Outlaw
+Twisting Path 8,4m21s,Howling Coyote 2,Copper Bandit
+Dusty Byway 4,8m15s,Lone Buzzard 2,Silver Cactus 5
+Dusty Trace 5,5m12s,Lazy Prairie,Golden Buzzard 2
+Old Trail 5,7m51s,Silver Canyon 2,Silver Barrel
+Muddy Fork 5,9m20s,Sunburnt Buzzard,Grizzled Canyon 3
+Silent Fork 5,5m49s,Broken Rattlesnake 2,Crooked Vulture
+Rocky Gulch 4,9m42s,Wild Saloon,Thirsty Wagon
+Endless Byway 4,8m6s,Thirsty Gambler 3,Dusty Barrel 2
+Hidden Bend 7,8m51s,Rusty Longhorn,Copper Outlaw
+Winding Road 4,7m2s,Howling Coyote 2,Crooked Mustang 3
+Twisting Canyon 6,8m16s,Thirsty Gambler 2,Broken Buzzard
+Muddy Trace 8,8m53s,Golden Canyon,Drunken Saloon 3
+Twisting Pass 4,7m23s,Lone Barrel,Golden Buzzard
+Silent Wash 5,4m12s,Iron Wagon,Dusty Saloon 2
+Dusty Canyon 6,6m29s,Wild Bandit,Lone Cactus 2
+Forgotten Route 5,5m19s,Grizzled Rattlesnake 2,Lone Barrel
+Windswept Path 6,9m8s,Drunken Tavern,Copper Outlaw
+Dusty Byway 5,5m26s,Lone Canyon,Thirsty Tumbleweed
+Silent Draw 5,9m25s,Howling Spur,Ragged Longhorn
+Dusty Wash 7,7m31s,Iron Cactus 2,Iron Vulture 2
+Muddy Trace 9,4m45s,Lazy Tavern,Whispering Prairie
+Old Trail 6,7m40s,Dusty Gunslinger,Wild Outlaw 2
+Barren Path 6,6m8s,Dusty Barrel,Sunburnt Barrel
+Rocky Bend 7,6m56s,Lone Prairie,Silver Prairie
+Twisting Crossing 6,7m42s,Howling Bandit,Whispering Canyon
+Dusty Trail 7,7m9s,Lone Tavern,Lucky Gambler
+Hidden Path 6,6m35s,Rattling Canyon,Lone Tavern 2
+Endless Fork 5,6m33s,Dusty Tavern,Dusty Mustang
+Narrow Gulch 8,9m25s,Howling Coyote 4,Lucky Gambler
+Silent Trace 6,8m24s,Grizzled Rattlesnake 2,Broken Rattlesnake 3
+Steep Canyon 5,4m18s,Lone Barrel,Lone Canyon
+Narrow Crossing 7,5m47s,Copper Longhorn,Howling Outlaw 2
+Sunbaked Trail 5,7m39s,Howling Longhorn,Silver Barrel
+Narrow Pass 5,8m58s,Howling Bandit 2,Wild Buzzard
+Endless Byway 5,7m5s,Grizzled Buzzard 5,Lazy Coyote
+Muddy Draw 6,5m34s,Lucky Canyon,Grizzled Longhorn 2
+Windswept Fork 7,7m41s,Rusty Cactus,Whispering Prairie
+Endless Byway 6,5m11s,Rattling Vulture,Sunburnt Vulture
+Winding Byway 5,8m28s,Rattling Cactus,Rusty Barrel
+Rocky Trail 8,4m54s,Sunburnt Buzzard 2,Lazy Barrel
+Narrow Path 2,4m47s,Lazy Rattlesnake,Golden Saloon
+Windswept Pass 4,5m7s,Dusty Tumbleweed,Crooked Mustang 2
+Barren Gulch 6,4m40s,Lucky Tavern 3,Lucky Saloon
+Windswept Trail 7,8m19s,Iron Vulture,Whispering Gambler 2
