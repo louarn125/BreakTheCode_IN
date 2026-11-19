@@ -19,6 +19,12 @@ Repository of the team "Intelligence naturelle" for algorithmic / puzzle code ch
 - **Compilation: each challenge directory has its own `Makefile`** (flags `-Wall -Wextra -g`; targets `all`, `run`, `clean`). Don't hand-type `gcc` lines, and there is no root Makefile. When adding a solver, create the `Makefile` in its challenge directory.
 - **Documentation: every challenge directory has its own `README.md`** (data, approach, how to build/run, current state). Create or update it whenever you add or change a solver; don't document challenge specifics here.
 
+## Commits
+
+- Follow [Conventional Commits](https://www.conventionalcommits.org/): `type(scope): summary` (`feat`, `fix`, `docs`, `refactor`, `chore`, …). Use the challenge number as scope when relevant, e.g. `feat(17): ...`.
+- Always add a body (description) after a blank line explaining what changed and why, not just a one-line subject.
+- Do **not** add a `Co-Authored-By` line naming Claude, nor any "Generated with Claude Code" attribution, in commits or PR descriptions.
+
 ## Building / running
 
 ```
